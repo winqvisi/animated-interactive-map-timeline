@@ -1,0 +1,965 @@
+"date","home_team","away_team","home_score","away_score","tournament","city","country","neutral","lat","lng","random"
+"1930-07-13T00:00:00.000Z","Belgium","United States",0,3,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.6265702299870586
+"1930-07-13T00:00:00.000Z","France","Mexico",4,1,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.8626836720528919
+"1930-07-14T00:00:00.000Z","Brazil","Yugoslavia",1,2,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.8138544172520839
+"1930-07-14T00:00:00.000Z","Peru","Romania",1,3,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.9455111020016644
+"1930-07-15T00:00:00.000Z","Argentina","France",1,0,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.41010752816713936
+"1930-07-16T00:00:00.000Z","Chile","Mexico",3,0,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.9869435310135142
+"1930-07-17T00:00:00.000Z","Bolivia","Yugoslavia",0,4,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.6027795142055248
+"1930-07-17T00:00:00.000Z","Paraguay","United States",0,3,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.4613338788010397
+"1930-07-18T00:00:00.000Z","Uruguay","Peru",1,0,"FIFA World Cup","Montevideo","Uruguay","FALSE",-34.8667,-56.1667,0.862651728328163
+"1930-07-19T00:00:00.000Z","Argentina","Mexico",6,3,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.17128258994168322
+"1930-07-19T00:00:00.000Z","Chile","France",1,0,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.6632916176505597
+"1930-07-20T00:00:00.000Z","Belgium","Paraguay",0,1,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.7380094821458476
+"1930-07-20T00:00:00.000Z","Bolivia","Brazil",0,4,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.6565845893759175
+"1930-07-21T00:00:00.000Z","Uruguay","Romania",4,0,"FIFA World Cup","Montevideo","Uruguay","FALSE",-34.8667,-56.1667,0.5890992294096287
+"1930-07-22T00:00:00.000Z","Argentina","Chile",3,1,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.5278913648674308
+"1930-07-26T00:00:00.000Z","Argentina","United States",6,1,"FIFA World Cup","Montevideo","Uruguay","TRUE",-34.8667,-56.1667,0.47590713586000133
+"1930-07-27T00:00:00.000Z","Uruguay","Yugoslavia",6,1,"FIFA World Cup","Montevideo","Uruguay","FALSE",-34.8667,-56.1667,0.6152796016329347
+"1930-07-30T00:00:00.000Z","Uruguay","Argentina",4,2,"FIFA World Cup","Montevideo","Uruguay","FALSE",-34.8667,-56.1667,0.9797384881088371
+"1934-05-27T00:00:00.000Z","Argentina","Sweden",2,3,"FIFA World Cup","Bologna","Italy","TRUE",44.4939,11.3428,0.020579622167742118
+"1934-05-27T00:00:00.000Z","Austria","France",3,2,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.6792571928656597
+"1934-05-27T00:00:00.000Z","Belgium","Germany",2,5,"FIFA World Cup","Florence","Italy","TRUE",43.7714,11.2542,0.45336757444745235
+"1934-05-27T00:00:00.000Z","Brazil","Spain",1,3,"FIFA World Cup","Genoa","Italy","TRUE",44.4072,8.934,0.6920117627813278
+"1934-05-27T00:00:00.000Z","Czechoslovakia","Romania",2,1,"FIFA World Cup","Trieste","Italy","TRUE",45.6503,13.7703,0.5632063546334185
+"1934-05-27T00:00:00.000Z","Egypt","Hungary",2,4,"FIFA World Cup","Naples","Italy","TRUE",40.8333,14.25,0.6467096230612115
+"1934-05-27T00:00:00.000Z","Italy","United States",7,1,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.7238012016379844
+"1934-05-27T00:00:00.000Z","Netherlands","Switzerland",2,3,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.9007434818538205
+"1934-05-31T00:00:00.000Z","Austria","Hungary",2,1,"FIFA World Cup","Bologna","Italy","TRUE",44.4939,11.3428,0.5666707525041135
+"1934-05-31T00:00:00.000Z","Czechoslovakia","Switzerland",3,2,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.651597001257856
+"1934-05-31T00:00:00.000Z","Germany","Sweden",2,1,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.27968674166150076
+"1934-05-31T00:00:00.000Z","Italy","Spain",1,1,"FIFA World Cup","Florence","Italy","FALSE",43.7714,11.2542,0.35013672381407823
+"1934-06-01T00:00:00.000Z","Italy","Spain",1,0,"FIFA World Cup","Florence","Italy","FALSE",43.7714,11.2542,0.2399832174788148
+"1934-06-03T00:00:00.000Z","Czechoslovakia","Germany",3,1,"FIFA World Cup","Rome","Italy","TRUE",41.8931,12.4828,0.5838191442746614
+"1934-06-03T00:00:00.000Z","Italy","Austria",1,0,"FIFA World Cup","Milan","Italy","FALSE",45.4669,9.19,0.3747125826627977
+"1934-06-07T00:00:00.000Z","Austria","Germany",2,3,"FIFA World Cup","Naples","Italy","TRUE",40.8333,14.25,0.47975679500302837
+"1934-06-10T00:00:00.000Z","Italy","Czechoslovakia",2,1,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.5071092419921488
+"1938-06-04T00:00:00.000Z","Germany","Switzerland",1,1,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.22011432207666837
+"1938-06-05T00:00:00.000Z","Brazil","Poland",6,5,"FIFA World Cup","Strasbourg","France","TRUE",48.5833,7.7458,0.14670748823530189
+"1938-06-05T00:00:00.000Z","Cuba","Romania",3,3,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.8641026918233894
+"1938-06-05T00:00:00.000Z","Czechoslovakia","Netherlands",3,0,"FIFA World Cup","Le Havre","France","TRUE",49.49,0.1,0.853703872401415
+"1938-06-05T00:00:00.000Z","France","Belgium",3,1,"FIFA World Cup","Colombes","France","FALSE",48.9236,2.2522,0.1577537282629211
+"1938-06-05T00:00:00.000Z","Hungary","Indonesia",6,0,"FIFA World Cup","Reims","France","TRUE",49.2628,4.0347,0.14800689697839275
+"1938-06-05T00:00:00.000Z","Italy","Norway",2,1,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.7244312413770211
+"1938-06-09T00:00:00.000Z","Cuba","Romania",2,1,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.9988824590711287
+"1938-06-09T00:00:00.000Z","Germany","Switzerland",2,4,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.16988091811050876
+"1938-06-12T00:00:00.000Z","Brazil","Czechoslovakia",1,1,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.5178330318800364
+"1938-06-12T00:00:00.000Z","Cuba","Sweden",0,8,"FIFA World Cup","Antibes","France","TRUE",43.5808,7.1239,0.7853680136037395
+"1938-06-12T00:00:00.000Z","France","Italy",1,3,"FIFA World Cup","Colombes","France","FALSE",48.9236,2.2522,0.881480535590127
+"1938-06-12T00:00:00.000Z","Hungary","Switzerland",2,0,"FIFA World Cup","Lille","France","TRUE",50.6278,3.0583,0.2290914142522371
+"1938-06-14T00:00:00.000Z","Brazil","Czechoslovakia",2,1,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.891022949987818
+"1938-06-16T00:00:00.000Z","Brazil","Italy",1,2,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.2144741901865992
+"1938-06-16T00:00:00.000Z","Hungary","Sweden",5,1,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.3021014480241311
+"1938-06-19T00:00:00.000Z","Brazil","Sweden",4,2,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.7368255588551638
+"1938-06-19T00:00:00.000Z","Hungary","Italy",2,4,"FIFA World Cup","Colombes","France","TRUE",48.9236,2.2522,0.3206591177164677
+"1950-06-24T00:00:00.000Z","Brazil","Mexico",4,0,"FIFA World Cup","Rio de Janeiro","Brazil","FALSE",-22.9083,-43.1964,0.3312928352857152
+"1950-06-25T00:00:00.000Z","Chile","England",0,2,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.6800899099388296
+"1950-06-25T00:00:00.000Z","Italy","Sweden",2,3,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.3003898515378298
+"1950-06-25T00:00:00.000Z","Spain","United States",3,1,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.7871775829554437
+"1950-06-25T00:00:00.000Z","Switzerland","Yugoslavia",0,3,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.3872173904725176
+"1950-06-28T00:00:00.000Z","Brazil","Switzerland",2,2,"FIFA World Cup","São Paulo","Brazil","FALSE",-23.5504,-46.6339,0.7187938777030989
+"1950-06-28T00:00:00.000Z","Mexico","Yugoslavia",1,4,"FIFA World Cup","Porto Alegre","Brazil","TRUE",-30.0328,-51.23,0.41152998174975997
+"1950-06-29T00:00:00.000Z","Chile","Spain",0,2,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.8752370132660299
+"1950-06-29T00:00:00.000Z","England","United States",0,1,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.18923950894962416
+"1950-06-29T00:00:00.000Z","Paraguay","Sweden",2,2,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.8119980244136575
+"1950-07-01T00:00:00.000Z","Brazil","Yugoslavia",2,0,"FIFA World Cup","Rio de Janeiro","Brazil","FALSE",-22.9083,-43.1964,0.872662559522194
+"1950-07-02T00:00:00.000Z","Bolivia","Uruguay",0,8,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.36746326772084026
+"1950-07-02T00:00:00.000Z","Chile","United States",5,2,"FIFA World Cup","Recife","Brazil","TRUE",-8.0539,-34.8808,0.21141013103348238
+"1950-07-02T00:00:00.000Z","England","Spain",0,1,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.7656339016035263
+"1950-07-02T00:00:00.000Z","Italy","Paraguay",2,0,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.8943741428295278
+"1950-07-02T00:00:00.000Z","Mexico","Switzerland",1,2,"FIFA World Cup","Porto Alegre","Brazil","TRUE",-30.0328,-51.23,0.9644833608132373
+"1950-07-09T00:00:00.000Z","Brazil","Sweden",7,1,"FIFA World Cup","Rio de Janeiro","Brazil","FALSE",-22.9083,-43.1964,0.8479965678626593
+"1950-07-09T00:00:00.000Z","Spain","Uruguay",2,2,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.7457208117006418
+"1950-07-13T00:00:00.000Z","Brazil","Spain",6,1,"FIFA World Cup","Rio de Janeiro","Brazil","FALSE",-22.9083,-43.1964,0.6961592239214041
+"1950-07-13T00:00:00.000Z","Sweden","Uruguay",2,3,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.0825586439794177
+"1950-07-16T00:00:00.000Z","Brazil","Uruguay",1,2,"FIFA World Cup","Rio de Janeiro","Brazil","FALSE",-22.9083,-43.1964,0.2938462403476463
+"1950-07-16T00:00:00.000Z","Spain","Sweden",1,3,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.23767714331067813
+"1954-06-16T00:00:00.000Z","Austria","Scotland",1,0,"FIFA World Cup","Zürich","Switzerland","TRUE",47.3744,8.5411,0.21058359836954121
+"1954-06-16T00:00:00.000Z","Brazil","Mexico",5,0,"FIFA World Cup","Geneva","Switzerland","TRUE",46.2,6.15,0.21648433727960037
+"1954-06-16T00:00:00.000Z","Czechoslovakia","Uruguay",0,2,"FIFA World Cup","Berne","Switzerland","TRUE",40.6572,-84.9555,0.3877170541130073
+"1954-06-16T00:00:00.000Z","France","Yugoslavia",0,1,"FIFA World Cup","Lausanne","Switzerland","TRUE",46.5333,6.6333,0.49451078972652507
+"1954-06-17T00:00:00.000Z","Belgium","England",4,4,"FIFA World Cup","Basel","Switzerland","TRUE",47.5606,7.5906,0.4720129245196649
+"1954-06-17T00:00:00.000Z","Germany","Turkey",4,1,"FIFA World Cup","Berne","Switzerland","TRUE",40.6572,-84.9555,0.42749326454513037
+"1954-06-17T00:00:00.000Z","Hungary","South Korea",9,0,"FIFA World Cup","Zürich","Switzerland","TRUE",47.3744,8.5411,0.0157059513160287
+"1954-06-17T00:00:00.000Z","Switzerland","Italy",2,1,"FIFA World Cup","Lausanne","Switzerland","FALSE",46.5333,6.6333,0.7357477942364303
+"1954-06-19T00:00:00.000Z","Austria","Czechoslovakia",5,0,"FIFA World Cup","Zürich","Switzerland","TRUE",47.3744,8.5411,0.5017189049035833
+"1954-06-19T00:00:00.000Z","Brazil","Yugoslavia",1,1,"FIFA World Cup","Lausanne","Switzerland","TRUE",46.5333,6.6333,0.4580705507784406
+"1954-06-19T00:00:00.000Z","France","Mexico",3,2,"FIFA World Cup","Geneva","Switzerland","TRUE",46.2,6.15,0.9785162283602238
+"1954-06-19T00:00:00.000Z","Scotland","Uruguay",0,7,"FIFA World Cup","Basel","Switzerland","TRUE",47.5606,7.5906,0.13478263340456942
+"1954-06-20T00:00:00.000Z","Belgium","Italy",1,4,"FIFA World Cup","Lugano","Switzerland","TRUE",46.0103,8.9625,0.17283331800665724
+"1954-06-20T00:00:00.000Z","Germany","Hungary",3,8,"FIFA World Cup","Basel","Switzerland","TRUE",47.5606,7.5906,0.7113960649036994
+"1954-06-20T00:00:00.000Z","South Korea","Turkey",0,7,"FIFA World Cup","Geneva","Switzerland","TRUE",46.2,6.15,0.09989220076025607
+"1954-06-20T00:00:00.000Z","Switzerland","England",0,2,"FIFA World Cup","Berne","Switzerland","FALSE",40.6572,-84.9555,0.23368365521016154
+"1954-06-23T00:00:00.000Z","Germany","Turkey",7,2,"FIFA World Cup","Zürich","Switzerland","TRUE",47.3744,8.5411,0.5382743680610269
+"1954-06-23T00:00:00.000Z","Switzerland","Italy",4,1,"FIFA World Cup","Basel","Switzerland","FALSE",47.5606,7.5906,0.7324330851516638
+"1954-06-26T00:00:00.000Z","England","Uruguay",2,4,"FIFA World Cup","Basel","Switzerland","TRUE",47.5606,7.5906,0.7879298906650101
+"1954-06-26T00:00:00.000Z","Switzerland","Austria",5,7,"FIFA World Cup","Lausanne","Switzerland","FALSE",46.5333,6.6333,0.7123069485769467
+"1954-06-27T00:00:00.000Z","Brazil","Hungary",2,4,"FIFA World Cup","Berne","Switzerland","TRUE",40.6572,-84.9555,0.7226770850485889
+"1954-06-27T00:00:00.000Z","Germany","Yugoslavia",2,0,"FIFA World Cup","Geneva","Switzerland","TRUE",46.2,6.15,0.26942876522966985
+"1954-06-30T00:00:00.000Z","Austria","Germany",1,6,"FIFA World Cup","Basel","Switzerland","TRUE",47.5606,7.5906,0.8809629811414779
+"1954-06-30T00:00:00.000Z","Hungary","Uruguay",4,2,"FIFA World Cup","Lausanne","Switzerland","TRUE",46.5333,6.6333,0.48270891556807927
+"1954-07-03T00:00:00.000Z","Austria","Uruguay",3,1,"FIFA World Cup","Zürich","Switzerland","TRUE",47.3744,8.5411,0.22088308754521657
+"1954-07-04T00:00:00.000Z","Germany","Hungary",3,2,"FIFA World Cup","Berne","Switzerland","TRUE",40.6572,-84.9555,0.12628357266154722
+"1958-06-08T00:00:00.000Z","Argentina","Germany",1,3,"FIFA World Cup","Malmö","Sweden","TRUE",55.5833,13.0333,0.7227074661577904
+"1958-06-08T00:00:00.000Z","Austria","Brazil",0,3,"FIFA World Cup","Uddevalla","Sweden","TRUE",59.3294,18.0686,0.23606653754872498
+"1958-06-08T00:00:00.000Z","Czechoslovakia","Northern Ireland",0,1,"FIFA World Cup","Halmstad","Sweden","TRUE",56.6754,12.8587,0.09917671794829297
+"1958-06-08T00:00:00.000Z","England","Russia",2,2,"FIFA World Cup","Gothenburg","Sweden","TRUE",57.6717,11.981,0.7448588142333232
+"1958-06-08T00:00:00.000Z","France","Paraguay",7,3,"FIFA World Cup","Norrköping","Sweden","TRUE",58.5919,16.1856,0.6291226180088201
+"1958-06-08T00:00:00.000Z","Hungary","Wales",1,1,"FIFA World Cup","Sandviken","Sweden","TRUE",59.3294,18.0686,0.8526030508310305
+"1958-06-08T00:00:00.000Z","Scotland","Yugoslavia",1,1,"FIFA World Cup","Västerås","Sweden","TRUE",59.6173,16.5422,0.5684991976068812
+"1958-06-08T00:00:00.000Z","Sweden","Mexico",3,0,"FIFA World Cup","Solna","Sweden","FALSE",59.3294,18.0686,0.7893632063033393
+"1958-06-11T00:00:00.000Z","Argentina","Northern Ireland",3,1,"FIFA World Cup","Halmstad","Sweden","TRUE",56.6754,12.8587,0.04734889768178263
+"1958-06-11T00:00:00.000Z","Austria","Russia",0,2,"FIFA World Cup","Borås","Sweden","TRUE",57.7304,12.92,0.8100187821869207
+"1958-06-11T00:00:00.000Z","Brazil","England",0,0,"FIFA World Cup","Gothenburg","Sweden","TRUE",57.6717,11.981,0.39168067603739853
+"1958-06-11T00:00:00.000Z","Czechoslovakia","Germany",2,2,"FIFA World Cup","Helsingborg","Sweden","TRUE",56.0424,12.721,0.376092051795349
+"1958-06-11T00:00:00.000Z","France","Yugoslavia",2,3,"FIFA World Cup","Västerås","Sweden","TRUE",59.6173,16.5422,0.8649915277249636
+"1958-06-11T00:00:00.000Z","Mexico","Wales",1,1,"FIFA World Cup","Solna","Sweden","TRUE",59.3294,18.0686,0.6602532957650071
+"1958-06-11T00:00:00.000Z","Paraguay","Scotland",3,2,"FIFA World Cup","Norrköping","Sweden","TRUE",58.5919,16.1856,0.8946412286919003
+"1958-06-12T00:00:00.000Z","Sweden","Hungary",2,1,"FIFA World Cup","Solna","Sweden","FALSE",59.3294,18.0686,0.9362242984010041
+"1958-06-15T00:00:00.000Z","Argentina","Czechoslovakia",1,6,"FIFA World Cup","Helsingborg","Sweden","TRUE",56.0424,12.721,0.7914194763600515
+"1958-06-15T00:00:00.000Z","Austria","England",2,2,"FIFA World Cup","Borås","Sweden","TRUE",57.7304,12.92,0.7753199205278467
+"1958-06-15T00:00:00.000Z","Brazil","Russia",2,0,"FIFA World Cup","Gothenburg","Sweden","TRUE",57.6717,11.981,0.7372203694455193
+"1958-06-15T00:00:00.000Z","France","Scotland",2,1,"FIFA World Cup","Örebro","Sweden","TRUE",59.2669,15.1965,0.30620410509162
+"1958-06-15T00:00:00.000Z","Germany","Northern Ireland",2,2,"FIFA World Cup","Malmö","Sweden","TRUE",55.5833,13.0333,0.15602479370200117
+"1958-06-15T00:00:00.000Z","Hungary","Mexico",4,0,"FIFA World Cup","Sandviken","Sweden","TRUE",59.3294,18.0686,0.4029797384205487
+"1958-06-15T00:00:00.000Z","Paraguay","Yugoslavia",3,3,"FIFA World Cup","Eskilstuna","Sweden","TRUE",59.3294,18.0686,0.46806218802953237
+"1958-06-15T00:00:00.000Z","Sweden","Wales",0,0,"FIFA World Cup","Solna","Sweden","FALSE",59.3294,18.0686,0.5920404564930819
+"1958-06-17T00:00:00.000Z","Czechoslovakia","Northern Ireland",1,2,"FIFA World Cup","Malmö","Sweden","TRUE",55.5833,13.0333,0.77145599338285
+"1958-06-17T00:00:00.000Z","England","Russia",0,1,"FIFA World Cup","Gothenburg","Sweden","TRUE",57.6717,11.981,0.26128698143708196
+"1958-06-17T00:00:00.000Z","Hungary","Wales",1,2,"FIFA World Cup","Solna","Sweden","TRUE",59.3294,18.0686,0.870564859943461
+"1958-06-19T00:00:00.000Z","Brazil","Wales",1,0,"FIFA World Cup","Gothenburg","Sweden","TRUE",57.6717,11.981,0.7474919722391105
+"1958-06-19T00:00:00.000Z","France","Northern Ireland",4,0,"FIFA World Cup","Norrköping","Sweden","TRUE",58.5919,16.1856,0.3931614184420913
+"1958-06-19T00:00:00.000Z","Germany","Yugoslavia",1,0,"FIFA World Cup","Malmö","Sweden","TRUE",55.5833,13.0333,0.6991372597537795
+"1958-06-19T00:00:00.000Z","Sweden","Russia",2,0,"FIFA World Cup","Solna","Sweden","FALSE",59.3294,18.0686,0.3220019956102136
+"1958-06-24T00:00:00.000Z","Brazil","France",5,2,"FIFA World Cup","Solna","Sweden","TRUE",59.3294,18.0686,0.9981619264361521
+"1958-06-24T00:00:00.000Z","Sweden","Germany",3,1,"FIFA World Cup","Gothenburg","Sweden","FALSE",57.6717,11.981,0.9006004684572801
+"1958-06-28T00:00:00.000Z","France","Germany",6,3,"FIFA World Cup","Gothenburg","Sweden","TRUE",57.6717,11.981,0.996379244186669
+"1958-06-29T00:00:00.000Z","Sweden","Brazil",2,5,"FIFA World Cup","Solna","Sweden","FALSE",59.3294,18.0686,0.6006709934934709
+"1962-05-30T00:00:00.000Z","Argentina","Bulgaria",1,0,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.002508091950028879
+"1962-05-30T00:00:00.000Z","Brazil","Mexico",2,0,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.6854546322000847
+"1962-05-30T00:00:00.000Z","Chile","Switzerland",3,1,"FIFA World Cup","Santiago","Chile","FALSE",-33.45,-70.6667,0.795812891984679
+"1962-05-30T00:00:00.000Z","Colombia","Uruguay",1,2,"FIFA World Cup","Arica","Chile","TRUE",-18.4784,-70.3211,0.9587707005891688
+"1962-05-31T00:00:00.000Z","Czechoslovakia","Spain",1,0,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.8090259962916044
+"1962-05-31T00:00:00.000Z","England","Hungary",1,2,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.1181335618379189
+"1962-05-31T00:00:00.000Z","Germany","Italy",0,0,"FIFA World Cup","Santiago","Chile","TRUE",-33.45,-70.6667,0.5890437699448063
+"1962-05-31T00:00:00.000Z","Russia","Yugoslavia",2,0,"FIFA World Cup","Arica","Chile","TRUE",-18.4784,-70.3211,0.9616715306288794
+"1962-06-02T00:00:00.000Z","Argentina","England",1,3,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.4874583614030856
+"1962-06-02T00:00:00.000Z","Brazil","Czechoslovakia",0,0,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.6990890763951101
+"1962-06-02T00:00:00.000Z","Chile","Italy",2,0,"FIFA World Cup","Santiago","Chile","FALSE",-33.45,-70.6667,0.8636434167461384
+"1962-06-02T00:00:00.000Z","Uruguay","Yugoslavia",1,3,"FIFA World Cup","Arica","Chile","TRUE",-18.4784,-70.3211,0.004411510543088193
+"1962-06-03T00:00:00.000Z","Bulgaria","Hungary",1,6,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.4641158184504497
+"1962-06-03T00:00:00.000Z","Colombia","Russia",4,4,"FIFA World Cup","Arica","Chile","TRUE",-18.4784,-70.3211,0.1307361528861346
+"1962-06-03T00:00:00.000Z","Germany","Switzerland",2,1,"FIFA World Cup","Santiago","Chile","TRUE",-33.45,-70.6667,0.36372352146179443
+"1962-06-03T00:00:00.000Z","Mexico","Spain",0,1,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.8678803007465621
+"1962-06-06T00:00:00.000Z","Argentina","Hungary",0,0,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.6864118783440363
+"1962-06-06T00:00:00.000Z","Brazil","Spain",2,1,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.649923663565533
+"1962-06-06T00:00:00.000Z","Chile","Germany",0,2,"FIFA World Cup","Santiago","Chile","FALSE",-33.45,-70.6667,0.7576113679297167
+"1962-06-06T00:00:00.000Z","Russia","Uruguay",2,1,"FIFA World Cup","Arica","Chile","TRUE",-18.4784,-70.3211,0.14757385958524516
+"1962-06-07T00:00:00.000Z","Bulgaria","England",0,0,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.07373487522554645
+"1962-06-07T00:00:00.000Z","Colombia","Yugoslavia",0,5,"FIFA World Cup","Arica","Chile","TRUE",-18.4784,-70.3211,0.7765531474344349
+"1962-06-07T00:00:00.000Z","Czechoslovakia","Mexico",1,3,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.9860203453715177
+"1962-06-07T00:00:00.000Z","Italy","Switzerland",3,0,"FIFA World Cup","Santiago","Chile","TRUE",-33.45,-70.6667,0.32879882238158586
+"1962-06-10T00:00:00.000Z","Brazil","England",3,1,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.17642337336608938
+"1962-06-10T00:00:00.000Z","Chile","Russia",2,1,"FIFA World Cup","Arica","Chile","FALSE",-18.4784,-70.3211,0.6842751308188819
+"1962-06-10T00:00:00.000Z","Czechoslovakia","Hungary",1,0,"FIFA World Cup","Rancagua","Chile","TRUE",-34.1654,-70.7398,0.349138242847262
+"1962-06-10T00:00:00.000Z","Germany","Yugoslavia",0,1,"FIFA World Cup","Santiago","Chile","TRUE",-33.45,-70.6667,0.7257099521919179
+"1962-06-13T00:00:00.000Z","Chile","Brazil",2,4,"FIFA World Cup","Santiago","Chile","FALSE",-33.45,-70.6667,0.8907938025120028
+"1962-06-13T00:00:00.000Z","Czechoslovakia","Yugoslavia",3,1,"FIFA World Cup","Viña del Mar","Chile","TRUE",-33.0245,-71.5518,0.8353816904574198
+"1962-06-16T00:00:00.000Z","Chile","Yugoslavia",1,0,"FIFA World Cup","Santiago","Chile","FALSE",-33.45,-70.6667,0.41192309215569933
+"1962-06-17T00:00:00.000Z","Brazil","Czechoslovakia",3,1,"FIFA World Cup","Santiago","Chile","TRUE",-33.45,-70.6667,0.06546553057409232
+"1966-07-11T00:00:00.000Z","England","Uruguay",0,0,"FIFA World Cup","London","England","FALSE",51.5072,-0.1275,0.22409287138641565
+"1966-07-12T00:00:00.000Z","Brazil","Bulgaria",2,0,"FIFA World Cup","Liverpool","England","TRUE",53.4075,-2.9919,0.3815192320459284
+"1966-07-12T00:00:00.000Z","Germany","Switzerland",5,0,"FIFA World Cup","Sheffield","England","TRUE",53.3808,-1.4703,0.9948131620642984
+"1966-07-12T00:00:00.000Z","North Korea","Russia",0,3,"FIFA World Cup","Middlesbrough","England","TRUE",54.5767,-1.2355,0.843979510959634
+"1966-07-13T00:00:00.000Z","Argentina","Spain",2,1,"FIFA World Cup","Birmingham","England","TRUE",52.48,-1.9025,0.5654800787456777
+"1966-07-13T00:00:00.000Z","Chile","Italy",0,2,"FIFA World Cup","Sunderland","England","TRUE",54.906,-1.381,0.7806709479017309
+"1966-07-13T00:00:00.000Z","France","Mexico",1,1,"FIFA World Cup","London","England","TRUE",51.5072,-0.1275,0.18466859700694171
+"1966-07-13T00:00:00.000Z","Hungary","Portugal",1,3,"FIFA World Cup","Manchester","England","TRUE",53.4794,-2.2453,0.6023879585155874
+"1966-07-15T00:00:00.000Z","Brazil","Hungary",1,3,"FIFA World Cup","Liverpool","England","TRUE",53.4075,-2.9919,0.16311032916141022
+"1966-07-15T00:00:00.000Z","Chile","North Korea",1,1,"FIFA World Cup","Middlesbrough","England","TRUE",54.5767,-1.2355,0.9915138846918317
+"1966-07-15T00:00:00.000Z","France","Uruguay",1,2,"FIFA World Cup","London","England","TRUE",51.5072,-0.1275,0.3628215235439036
+"1966-07-15T00:00:00.000Z","Spain","Switzerland",2,1,"FIFA World Cup","Sheffield","England","TRUE",53.3808,-1.4703,0.7498566055525033
+"1966-07-16T00:00:00.000Z","Argentina","Germany",0,0,"FIFA World Cup","Birmingham","England","TRUE",52.48,-1.9025,0.8582380081684915
+"1966-07-16T00:00:00.000Z","Bulgaria","Portugal",0,3,"FIFA World Cup","Manchester","England","TRUE",53.4794,-2.2453,0.07913082093408774
+"1966-07-16T00:00:00.000Z","England","Mexico",2,0,"FIFA World Cup","London","England","FALSE",51.5072,-0.1275,0.19783222550507107
+"1966-07-16T00:00:00.000Z","Italy","Russia",0,1,"FIFA World Cup","Sunderland","England","TRUE",54.906,-1.381,0.5645987644917556
+"1966-07-19T00:00:00.000Z","Argentina","Switzerland",2,0,"FIFA World Cup","Sheffield","England","TRUE",53.3808,-1.4703,0.5478077149343503
+"1966-07-19T00:00:00.000Z","Brazil","Portugal",1,3,"FIFA World Cup","Liverpool","England","TRUE",53.4075,-2.9919,0.9429604922506667
+"1966-07-19T00:00:00.000Z","Italy","North Korea",0,1,"FIFA World Cup","Middlesbrough","England","TRUE",54.5767,-1.2355,0.036756450397859686
+"1966-07-19T00:00:00.000Z","Mexico","Uruguay",0,0,"FIFA World Cup","London","England","TRUE",51.5072,-0.1275,0.8729826395696383
+"1966-07-20T00:00:00.000Z","Bulgaria","Hungary",1,3,"FIFA World Cup","Manchester","England","TRUE",53.4794,-2.2453,0.8569426810697509
+"1966-07-20T00:00:00.000Z","Chile","Russia",1,2,"FIFA World Cup","Sunderland","England","TRUE",54.906,-1.381,0.7484178977458544
+"1966-07-20T00:00:00.000Z","England","France",2,0,"FIFA World Cup","London","England","FALSE",51.5072,-0.1275,0.27335096942748893
+"1966-07-20T00:00:00.000Z","Germany","Spain",2,1,"FIFA World Cup","Birmingham","England","TRUE",52.48,-1.9025,0.016810773958781944
+"1966-07-23T00:00:00.000Z","England","Argentina",1,0,"FIFA World Cup","London","England","FALSE",51.5072,-0.1275,0.26599574353813726
+"1966-07-23T00:00:00.000Z","Germany","Uruguay",4,0,"FIFA World Cup","Sheffield","England","TRUE",53.3808,-1.4703,0.36882223107201595
+"1966-07-23T00:00:00.000Z","Hungary","Russia",1,2,"FIFA World Cup","Sunderland","England","TRUE",54.906,-1.381,0.8582415290999605
+"1966-07-23T00:00:00.000Z","North Korea","Portugal",3,5,"FIFA World Cup","Liverpool","England","TRUE",53.4075,-2.9919,0.2071013082063473
+"1966-07-25T00:00:00.000Z","Germany","Russia",2,1,"FIFA World Cup","Liverpool","England","TRUE",53.4075,-2.9919,0.9671971915148241
+"1966-07-26T00:00:00.000Z","England","Portugal",2,1,"FIFA World Cup","London","England","FALSE",51.5072,-0.1275,0.9846486144508926
+"1966-07-28T00:00:00.000Z","Portugal","Russia",2,1,"FIFA World Cup","London","England","TRUE",51.5072,-0.1275,0.4319310659063793
+"1966-07-30T00:00:00.000Z","England","Germany",4,2,"FIFA World Cup","London","England","FALSE",51.5072,-0.1275,0.76030055439629
+"1970-05-31T00:00:00.000Z","Mexico","Russia",0,0,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.12515444132861364
+"1970-06-02T00:00:00.000Z","Bulgaria","Peru",2,3,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.9776184674925958
+"1970-06-02T00:00:00.000Z","England","Romania",1,0,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.33295006279411976
+"1970-06-02T00:00:00.000Z","Israel","Uruguay",0,2,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.730599770529371
+"1970-06-03T00:00:00.000Z","Belgium","El Salvador",3,0,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.09479856045869828
+"1970-06-03T00:00:00.000Z","Brazil","Czechoslovakia",4,1,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.7925775543156752
+"1970-06-03T00:00:00.000Z","Germany","Morocco",2,1,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.08076212092113488
+"1970-06-03T00:00:00.000Z","Italy","Sweden",1,0,"FIFA World Cup","Toluca","Mexico","TRUE",19.2925,-99.6569,0.5348449156762798
+"1970-06-06T00:00:00.000Z","Belgium","Russia",1,4,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.10602325545063818
+"1970-06-06T00:00:00.000Z","Czechoslovakia","Romania",1,2,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.9279817931231997
+"1970-06-06T00:00:00.000Z","Italy","Uruguay",0,0,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.9802147207578893
+"1970-06-06T00:00:00.000Z","Morocco","Peru",0,3,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.7443831758291863
+"1970-06-07T00:00:00.000Z","Brazil","England",1,0,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.4491342560412137
+"1970-06-07T00:00:00.000Z","Bulgaria","Germany",2,5,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.7002156373139448
+"1970-06-07T00:00:00.000Z","Israel","Sweden",1,1,"FIFA World Cup","Toluca","Mexico","TRUE",19.2925,-99.6569,0.5832287468751416
+"1970-06-07T00:00:00.000Z","Mexico","El Salvador",4,0,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.03679599584628446
+"1970-06-10T00:00:00.000Z","Brazil","Romania",3,2,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.5045913593087679
+"1970-06-10T00:00:00.000Z","El Salvador","Russia",0,2,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.7974776347994841
+"1970-06-10T00:00:00.000Z","Germany","Peru",3,1,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.2427539169705204
+"1970-06-10T00:00:00.000Z","Sweden","Uruguay",1,0,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.6626954505417317
+"1970-06-11T00:00:00.000Z","Bulgaria","Morocco",1,1,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.028778978094483376
+"1970-06-11T00:00:00.000Z","Czechoslovakia","England",0,1,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.90954259326094
+"1970-06-11T00:00:00.000Z","Israel","Italy",0,0,"FIFA World Cup","Toluca","Mexico","TRUE",19.2925,-99.6569,0.3197722129210032
+"1970-06-11T00:00:00.000Z","Mexico","Belgium",1,0,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.9776166990888404
+"1970-06-14T00:00:00.000Z","Brazil","Peru",4,2,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.6657184371530465
+"1970-06-14T00:00:00.000Z","England","Germany",2,3,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.9909325453999847
+"1970-06-14T00:00:00.000Z","Mexico","Italy",1,4,"FIFA World Cup","Toluca","Mexico","FALSE",19.2925,-99.6569,0.07735625098020216
+"1970-06-14T00:00:00.000Z","Russia","Uruguay",0,1,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.48567444933907034
+"1970-06-17T00:00:00.000Z","Brazil","Uruguay",3,1,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.7529645782684122
+"1970-06-17T00:00:00.000Z","Germany","Italy",3,4,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.46392438296699057
+"1970-06-20T00:00:00.000Z","Germany","Uruguay",1,0,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.06838842085615648
+"1970-06-21T00:00:00.000Z","Brazil","Italy",4,1,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.9593469588247128
+"1974-06-13T00:00:00.000Z","Brazil","Yugoslavia",0,0,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.01970838062298408
+"1974-06-14T00:00:00.000Z","DR Congo","Scotland",0,2,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.8841149894460367
+"1974-06-14T00:00:00.000Z","German DR","Australia",2,0,"FIFA World Cup","Hamburg","Germany","TRUE",53.55,10,0.594515979021754
+"1974-06-14T00:00:00.000Z","Germany","Chile",1,0,"FIFA World Cup","Berlin","Germany","FALSE",52.5167,13.3833,0.43300796521145823
+"1974-06-15T00:00:00.000Z","Italy","Haiti",3,1,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.38700873682833903
+"1974-06-15T00:00:00.000Z","Poland","Argentina",3,2,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.7289333005060468
+"1974-06-15T00:00:00.000Z","Sweden","Bulgaria",0,0,"FIFA World Cup","Düsseldorf","Germany","TRUE",51.2311,6.7724,0.5193998056917057
+"1974-06-15T00:00:00.000Z","Uruguay","Netherlands",0,2,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.3440539122089492
+"1974-06-18T00:00:00.000Z","Chile","German DR",1,1,"FIFA World Cup","Berlin","Germany","TRUE",52.5167,13.3833,0.22861527203782717
+"1974-06-18T00:00:00.000Z","Germany","Australia",3,0,"FIFA World Cup","Hamburg","Germany","FALSE",53.55,10,0.3214028108962461
+"1974-06-18T00:00:00.000Z","Scotland","Brazil",0,0,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.11559813718134526
+"1974-06-18T00:00:00.000Z","Yugoslavia","DR Congo",9,0,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.6156673218590267
+"1974-06-19T00:00:00.000Z","Argentina","Italy",1,1,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.6381160185271366
+"1974-06-19T00:00:00.000Z","Bulgaria","Uruguay",1,1,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.6080443437369487
+"1974-06-19T00:00:00.000Z","Haiti","Poland",0,7,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.15578140275112706
+"1974-06-19T00:00:00.000Z","Netherlands","Sweden",0,0,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.7871469807790397
+"1974-06-22T00:00:00.000Z","Australia","Chile",0,0,"FIFA World Cup","Berlin","Germany","TRUE",52.5167,13.3833,0.7912916117081579
+"1974-06-22T00:00:00.000Z","DR Congo","Brazil",0,3,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.879723654197625
+"1974-06-22T00:00:00.000Z","Germany","German DR",0,1,"FIFA World Cup","Hamburg","Germany","FALSE",53.55,10,0.3781025760923096
+"1974-06-22T00:00:00.000Z","Scotland","Yugoslavia",1,1,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.7187683852383895
+"1974-06-23T00:00:00.000Z","Argentina","Haiti",4,1,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.3073838848551964
+"1974-06-23T00:00:00.000Z","Bulgaria","Netherlands",1,4,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.6787895678512237
+"1974-06-23T00:00:00.000Z","Poland","Italy",2,1,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.8680876778946429
+"1974-06-23T00:00:00.000Z","Sweden","Uruguay",3,0,"FIFA World Cup","Düsseldorf","Germany","TRUE",51.2311,6.7724,0.5445896352573061
+"1974-06-26T00:00:00.000Z","Brazil","German DR",1,0,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.34360015515769504
+"1974-06-26T00:00:00.000Z","Germany","Yugoslavia",2,0,"FIFA World Cup","Düsseldorf","Germany","FALSE",51.2311,6.7724,0.14595114894010197
+"1974-06-26T00:00:00.000Z","Netherlands","Argentina",4,0,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.08615724958778781
+"1974-06-26T00:00:00.000Z","Sweden","Poland",0,1,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.8334324238978847
+"1974-06-30T00:00:00.000Z","Argentina","Brazil",1,2,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.4486249319975426
+"1974-06-30T00:00:00.000Z","German DR","Netherlands",0,2,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.28027413797575695
+"1974-06-30T00:00:00.000Z","Germany","Sweden",4,2,"FIFA World Cup","Düsseldorf","Germany","FALSE",51.2311,6.7724,0.9314817019850461
+"1974-06-30T00:00:00.000Z","Poland","Yugoslavia",2,1,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.7536479725292242
+"1974-07-03T00:00:00.000Z","Argentina","German DR",1,1,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.7891577354688324
+"1974-07-03T00:00:00.000Z","Germany","Poland",1,0,"FIFA World Cup","Frankfurt am Main","Germany","FALSE",52.5167,13.3833,0.5054330283549382
+"1974-07-03T00:00:00.000Z","Netherlands","Brazil",2,0,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.7453583430867257
+"1974-07-03T00:00:00.000Z","Sweden","Yugoslavia",2,1,"FIFA World Cup","Düsseldorf","Germany","TRUE",51.2311,6.7724,0.3392006650065569
+"1974-07-06T00:00:00.000Z","Brazil","Poland",0,1,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.2877624787810076
+"1974-07-07T00:00:00.000Z","Germany","Netherlands",2,1,"FIFA World Cup","Munich","Germany","FALSE",48.1375,11.575,0.5052856943320805
+"1978-06-01T00:00:00.000Z","Germany","Poland",0,0,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.9795814986374882
+"1978-06-02T00:00:00.000Z","Argentina","Hungary",2,1,"FIFA World Cup","Buenos Aires","Argentina","FALSE",-34.5997,-58.3819,0.01147430829674323
+"1978-06-02T00:00:00.000Z","France","Italy",1,2,"FIFA World Cup","Mar del Plata","Argentina","TRUE",-38,-57.55,0.47276574428077467
+"1978-06-02T00:00:00.000Z","Mexico","Tunisia",1,3,"FIFA World Cup","Rosario","Argentina","TRUE",-32.9575,-60.6394,0.1022073485704087
+"1978-06-03T00:00:00.000Z","Austria","Spain",2,1,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.9552971830762933
+"1978-06-03T00:00:00.000Z","Brazil","Sweden",1,1,"FIFA World Cup","Mar del Plata","Argentina","TRUE",-38,-57.55,0.7053475800017153
+"1978-06-03T00:00:00.000Z","Iran","Netherlands",0,3,"FIFA World Cup","Mendoza","Argentina","TRUE",-32.8833,-68.8333,0.5593154203099298
+"1978-06-03T00:00:00.000Z","Peru","Scotland",3,1,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.2142636838380183
+"1978-06-06T00:00:00.000Z","Argentina","France",2,1,"FIFA World Cup","Buenos Aires","Argentina","FALSE",-34.5997,-58.3819,0.9728175704303363
+"1978-06-06T00:00:00.000Z","Germany","Mexico",6,0,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.2513496352102771
+"1978-06-06T00:00:00.000Z","Hungary","Italy",1,3,"FIFA World Cup","Mar del Plata","Argentina","TRUE",-38,-57.55,0.24842411595821656
+"1978-06-06T00:00:00.000Z","Poland","Tunisia",1,0,"FIFA World Cup","Rosario","Argentina","TRUE",-32.9575,-60.6394,0.5575163296772849
+"1978-06-07T00:00:00.000Z","Austria","Sweden",1,0,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.23021191908385163
+"1978-06-07T00:00:00.000Z","Brazil","Spain",0,0,"FIFA World Cup","Mar del Plata","Argentina","TRUE",-38,-57.55,0.8628881465123044
+"1978-06-07T00:00:00.000Z","Iran","Scotland",1,1,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.35326537322360374
+"1978-06-07T00:00:00.000Z","Netherlands","Peru",0,0,"FIFA World Cup","Mendoza","Argentina","TRUE",-32.8833,-68.8333,0.8213496603022912
+"1978-06-10T00:00:00.000Z","Argentina","Italy",0,1,"FIFA World Cup","Buenos Aires","Argentina","FALSE",-34.5997,-58.3819,0.436851847905247
+"1978-06-10T00:00:00.000Z","France","Hungary",3,1,"FIFA World Cup","Mar del Plata","Argentina","TRUE",-38,-57.55,0.8649406884703938
+"1978-06-10T00:00:00.000Z","Germany","Tunisia",0,0,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.5764216339034798
+"1978-06-10T00:00:00.000Z","Mexico","Poland",1,3,"FIFA World Cup","Rosario","Argentina","TRUE",-32.9575,-60.6394,0.8041213169460437
+"1978-06-11T00:00:00.000Z","Austria","Brazil",0,1,"FIFA World Cup","Mar del Plata","Argentina","TRUE",-38,-57.55,0.1211473053719403
+"1978-06-11T00:00:00.000Z","Iran","Peru",1,4,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.47627349719551915
+"1978-06-11T00:00:00.000Z","Netherlands","Scotland",2,3,"FIFA World Cup","Mendoza","Argentina","TRUE",-32.8833,-68.8333,0.7578377299634691
+"1978-06-11T00:00:00.000Z","Spain","Sweden",1,0,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.17470450295805717
+"1978-06-14T00:00:00.000Z","Argentina","Poland",2,0,"FIFA World Cup","Rosario","Argentina","FALSE",-32.9575,-60.6394,0.020433297154588637
+"1978-06-14T00:00:00.000Z","Austria","Netherlands",1,5,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.8529922905724294
+"1978-06-14T00:00:00.000Z","Brazil","Peru",3,0,"FIFA World Cup","Mendoza","Argentina","TRUE",-32.8833,-68.8333,0.0582188151341545
+"1978-06-14T00:00:00.000Z","Germany","Italy",0,0,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.673105653801165
+"1978-06-18T00:00:00.000Z","Argentina","Brazil",0,0,"FIFA World Cup","Rosario","Argentina","FALSE",-32.9575,-60.6394,0.8887782400440942
+"1978-06-18T00:00:00.000Z","Austria","Italy",0,1,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.24718850132517822
+"1978-06-18T00:00:00.000Z","Germany","Netherlands",2,2,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.2689128630269211
+"1978-06-18T00:00:00.000Z","Peru","Poland",0,1,"FIFA World Cup","Mendoza","Argentina","TRUE",-32.8833,-68.8333,0.855453566386098
+"1978-06-21T00:00:00.000Z","Argentina","Peru",6,0,"FIFA World Cup","Rosario","Argentina","FALSE",-32.9575,-60.6394,0.07644516868798434
+"1978-06-21T00:00:00.000Z","Austria","Germany",3,2,"FIFA World Cup","Córdoba","Argentina","TRUE",-31.4167,-64.1833,0.9249333318564554
+"1978-06-21T00:00:00.000Z","Brazil","Poland",3,1,"FIFA World Cup","Mendoza","Argentina","TRUE",-32.8833,-68.8333,0.9498095570584215
+"1978-06-21T00:00:00.000Z","Italy","Netherlands",1,2,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.4356734083968623
+"1978-06-24T00:00:00.000Z","Brazil","Italy",2,1,"FIFA World Cup","Buenos Aires","Argentina","TRUE",-34.5997,-58.3819,0.1677634373122021
+"1978-06-25T00:00:00.000Z","Argentina","Netherlands",3,1,"FIFA World Cup","Buenos Aires","Argentina","FALSE",-34.5997,-58.3819,0.28548956496384736
+"1982-06-13T00:00:00.000Z","Argentina","Belgium",0,1,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.4035635016199606
+"1982-06-14T00:00:00.000Z","Brazil","Russia",2,1,"FIFA World Cup","Seville","Spain","TRUE",41.0208,-81.8671,0.7963200684200651
+"1982-06-14T00:00:00.000Z","Italy","Poland",0,0,"FIFA World Cup","Vigo","Spain","TRUE",42.2314,-8.7124,0.003228267784996852
+"1982-06-15T00:00:00.000Z","Hungary","El Salvador",10,1,"FIFA World Cup","Elche","Spain","TRUE",38.2669,-0.6983,0.629675557011522
+"1982-06-15T00:00:00.000Z","Peru","Cameroon",0,0,"FIFA World Cup","La Coruña","Spain","TRUE",40.4167,-3.7167,0.7274872194342477
+"1982-06-15T00:00:00.000Z","Scotland","New Zealand",5,2,"FIFA World Cup","Málaga","Spain","TRUE",36.7194,-4.42,0.0411139808285228
+"1982-06-16T00:00:00.000Z","England","France",3,1,"FIFA World Cup","Bilbao","Spain","TRUE",43.2569,-2.9236,0.8437663804427487
+"1982-06-16T00:00:00.000Z","Germany","Algeria",1,2,"FIFA World Cup","Gijón","Spain","TRUE",43.5333,-5.7,0.22557305322003396
+"1982-06-16T00:00:00.000Z","Spain","Honduras",1,1,"FIFA World Cup","Valencia","Spain","FALSE",10.1667,-68,0.9824399018783452
+"1982-06-17T00:00:00.000Z","Chile","Austria",0,1,"FIFA World Cup","Oviedo","Spain","TRUE",43.36,-5.845,0.9004752172578669
+"1982-06-17T00:00:00.000Z","Czechoslovakia","Kuwait",1,1,"FIFA World Cup","Valladolid","Spain","TRUE",41.6528,-4.7236,0.9552475109516232
+"1982-06-17T00:00:00.000Z","Yugoslavia","Northern Ireland",0,0,"FIFA World Cup","Zaragoza","Spain","TRUE",41.65,-0.8833,0.025999794091091877
+"1982-06-18T00:00:00.000Z","Argentina","Hungary",4,1,"FIFA World Cup","Alicante","Spain","TRUE",38.3453,-0.4831,0.1177034285160743
+"1982-06-18T00:00:00.000Z","Brazil","Scotland",4,1,"FIFA World Cup","Seville","Spain","TRUE",41.0208,-81.8671,0.8892335869074959
+"1982-06-18T00:00:00.000Z","Italy","Peru",1,1,"FIFA World Cup","Vigo","Spain","TRUE",42.2314,-8.7124,0.3235350471628602
+"1982-06-19T00:00:00.000Z","Belgium","El Salvador",1,0,"FIFA World Cup","Elche","Spain","TRUE",38.2669,-0.6983,0.6956166044770384
+"1982-06-19T00:00:00.000Z","Poland","Cameroon",0,0,"FIFA World Cup","La Coruña","Spain","TRUE",40.4167,-3.7167,0.8512201575381324
+"1982-06-19T00:00:00.000Z","Russia","New Zealand",3,0,"FIFA World Cup","Málaga","Spain","TRUE",36.7194,-4.42,0.9698315354701961
+"1982-06-20T00:00:00.000Z","England","Czechoslovakia",2,0,"FIFA World Cup","Bilbao","Spain","TRUE",43.2569,-2.9236,0.5155148070037325
+"1982-06-20T00:00:00.000Z","Germany","Chile",4,1,"FIFA World Cup","Gijón","Spain","TRUE",43.5333,-5.7,0.45737314906810056
+"1982-06-20T00:00:00.000Z","Spain","Yugoslavia",2,1,"FIFA World Cup","Valencia","Spain","FALSE",10.1667,-68,0.6581840955479132
+"1982-06-21T00:00:00.000Z","Algeria","Austria",0,2,"FIFA World Cup","Oviedo","Spain","TRUE",43.36,-5.845,0.5622934487668132
+"1982-06-21T00:00:00.000Z","France","Kuwait",4,1,"FIFA World Cup","Valladolid","Spain","TRUE",41.6528,-4.7236,0.056696910904219466
+"1982-06-21T00:00:00.000Z","Honduras","Northern Ireland",1,1,"FIFA World Cup","Zaragoza","Spain","TRUE",41.65,-0.8833,0.6920474992866741
+"1982-06-22T00:00:00.000Z","Belgium","Hungary",1,1,"FIFA World Cup","Elche","Spain","TRUE",38.2669,-0.6983,0.7497185469917993
+"1982-06-22T00:00:00.000Z","Poland","Peru",5,1,"FIFA World Cup","La Coruña","Spain","TRUE",40.4167,-3.7167,0.045315864201918465
+"1982-06-22T00:00:00.000Z","Russia","Scotland",2,2,"FIFA World Cup","Málaga","Spain","TRUE",36.7194,-4.42,0.6309248311159485
+"1982-06-23T00:00:00.000Z","Argentina","El Salvador",2,0,"FIFA World Cup","Alicante","Spain","TRUE",38.3453,-0.4831,0.93748978054391
+"1982-06-23T00:00:00.000Z","Brazil","New Zealand",4,0,"FIFA World Cup","Seville","Spain","TRUE",41.0208,-81.8671,0.8423795224463686
+"1982-06-23T00:00:00.000Z","Italy","Cameroon",1,1,"FIFA World Cup","Vigo","Spain","TRUE",42.2314,-8.7124,0.7018092330265708
+"1982-06-24T00:00:00.000Z","Algeria","Chile",3,2,"FIFA World Cup","Oviedo","Spain","TRUE",43.36,-5.845,0.7846808046725706
+"1982-06-24T00:00:00.000Z","France","Czechoslovakia",1,1,"FIFA World Cup","Valladolid","Spain","TRUE",41.6528,-4.7236,0.0026769022920316576
+"1982-06-24T00:00:00.000Z","Honduras","Yugoslavia",0,1,"FIFA World Cup","Zaragoza","Spain","TRUE",41.65,-0.8833,0.8975694391570088
+"1982-06-25T00:00:00.000Z","England","Kuwait",1,0,"FIFA World Cup","Bilbao","Spain","TRUE",43.2569,-2.9236,0.4818217298901224
+"1982-06-25T00:00:00.000Z","Germany","Austria",1,0,"FIFA World Cup","Gijón","Spain","TRUE",43.5333,-5.7,0.6042143126000086
+"1982-06-25T00:00:00.000Z","Spain","Northern Ireland",0,1,"FIFA World Cup","Valencia","Spain","FALSE",10.1667,-68,0.12620613059353336
+"1982-06-28T00:00:00.000Z","Austria","France",0,1,"FIFA World Cup","Madrid","Spain","TRUE",40.4167,-3.7167,0.09754045405672462
+"1982-06-28T00:00:00.000Z","Poland","Belgium",3,0,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.34009139968705604
+"1982-06-29T00:00:00.000Z","Germany","England",0,0,"FIFA World Cup","Madrid","Spain","TRUE",40.4167,-3.7167,0.4611680777296103
+"1982-06-29T00:00:00.000Z","Italy","Argentina",2,1,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.047324559189749316
+"1982-07-01T00:00:00.000Z","Austria","Northern Ireland",2,2,"FIFA World Cup","Madrid","Spain","TRUE",40.4167,-3.7167,0.7674728326588702
+"1982-07-01T00:00:00.000Z","Belgium","Russia",0,1,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.41263862036911103
+"1982-07-02T00:00:00.000Z","Argentina","Brazil",1,3,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.22405512095484337
+"1982-07-02T00:00:00.000Z","Spain","Germany",1,2,"FIFA World Cup","Madrid","Spain","FALSE",40.4167,-3.7167,0.26677227983982865
+"1982-07-04T00:00:00.000Z","France","Northern Ireland",4,1,"FIFA World Cup","Madrid","Spain","TRUE",40.4167,-3.7167,0.49835515139528463
+"1982-07-04T00:00:00.000Z","Poland","Russia",0,0,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.7639259064157795
+"1982-07-05T00:00:00.000Z","Italy","Brazil",3,2,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.22825247348020228
+"1982-07-05T00:00:00.000Z","Spain","England",0,0,"FIFA World Cup","Madrid","Spain","FALSE",40.4167,-3.7167,0.15592108577477637
+"1982-07-08T00:00:00.000Z","Germany","France",3,3,"FIFA World Cup","Seville","Spain","TRUE",41.0208,-81.8671,0.929161660535496
+"1982-07-08T00:00:00.000Z","Poland","Italy",0,2,"FIFA World Cup","Barcelona","Spain","TRUE",41.3825,2.1769,0.48166927018826367
+"1982-07-10T00:00:00.000Z","Poland","France",3,2,"FIFA World Cup","Alicante","Spain","TRUE",38.3453,-0.4831,0.7977681582158835
+"1982-07-11T00:00:00.000Z","Italy","Germany",3,1,"FIFA World Cup","Madrid","Spain","TRUE",40.4167,-3.7167,0.4931401951654506
+"1986-05-31T00:00:00.000Z","Bulgaria","Italy",1,1,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.2615172792983873
+"1986-06-01T00:00:00.000Z","Canada","France",0,1,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.22189367004236282
+"1986-06-01T00:00:00.000Z","Spain","Brazil",0,1,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.7229542449048798
+"1986-06-02T00:00:00.000Z","Argentina","South Korea",3,1,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.21895846436456323
+"1986-06-02T00:00:00.000Z","Morocco","Poland",0,0,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.07954938209735007
+"1986-06-02T00:00:00.000Z","Russia","Hungary",6,0,"FIFA World Cup","Irapuato","Mexico","TRUE",20.6667,-101.35,0.7384347400419053
+"1986-06-03T00:00:00.000Z","Algeria","Northern Ireland",1,1,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.5286711668631825
+"1986-06-03T00:00:00.000Z","Mexico","Belgium",2,1,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.025909094600294447
+"1986-06-03T00:00:00.000Z","Portugal","England",1,0,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.8590034665846986
+"1986-06-04T00:00:00.000Z","Paraguay","Iraq",1,0,"FIFA World Cup","Toluca","Mexico","TRUE",19.2925,-99.6569,0.6753371291066992
+"1986-06-04T00:00:00.000Z","Scotland","Denmark",0,1,"FIFA World Cup","Nezahualcóyotl","Mexico","TRUE",19.4,-98.9889,0.45145309185153293
+"1986-06-04T00:00:00.000Z","Uruguay","Germany",1,1,"FIFA World Cup","Querétaro","Mexico","TRUE",20.5875,-100.3928,0.8787457046666929
+"1986-06-05T00:00:00.000Z","France","Russia",1,1,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.12315017584769006
+"1986-06-05T00:00:00.000Z","Italy","Argentina",1,1,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.19322071132257612
+"1986-06-05T00:00:00.000Z","South Korea","Bulgaria",1,1,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.6818110349032689
+"1986-06-06T00:00:00.000Z","Brazil","Algeria",1,0,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.3862764821943663
+"1986-06-06T00:00:00.000Z","England","Morocco",0,0,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.4496768412469383
+"1986-06-06T00:00:00.000Z","Hungary","Canada",2,0,"FIFA World Cup","Irapuato","Mexico","TRUE",20.6667,-101.35,0.16776767143139226
+"1986-06-07T00:00:00.000Z","Mexico","Paraguay",1,1,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.8701674375619246
+"1986-06-07T00:00:00.000Z","Northern Ireland","Spain",1,2,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.47682494582989166
+"1986-06-07T00:00:00.000Z","Poland","Portugal",1,0,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.9673383985942097
+"1986-06-08T00:00:00.000Z","Denmark","Uruguay",6,1,"FIFA World Cup","Nezahualcóyotl","Mexico","TRUE",19.4,-98.9889,0.2928566739136296
+"1986-06-08T00:00:00.000Z","Germany","Scotland",2,1,"FIFA World Cup","Querétaro","Mexico","TRUE",20.5875,-100.3928,0.019808378204609234
+"1986-06-08T00:00:00.000Z","Iraq","Belgium",1,2,"FIFA World Cup","Toluca","Mexico","TRUE",19.2925,-99.6569,0.06944470022706328
+"1986-06-09T00:00:00.000Z","Hungary","France",0,3,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.826376650177566
+"1986-06-09T00:00:00.000Z","Russia","Canada",2,0,"FIFA World Cup","Irapuato","Mexico","TRUE",20.6667,-101.35,0.831442724249911
+"1986-06-10T00:00:00.000Z","Argentina","Bulgaria",2,0,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.4958119959220453
+"1986-06-10T00:00:00.000Z","South Korea","Italy",2,3,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.8703460045986531
+"1986-06-11T00:00:00.000Z","England","Poland",3,0,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.22953732073406052
+"1986-06-11T00:00:00.000Z","Mexico","Iraq",1,0,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.843552375211329
+"1986-06-11T00:00:00.000Z","Paraguay","Belgium",2,2,"FIFA World Cup","Toluca","Mexico","TRUE",19.2925,-99.6569,0.4104608912647971
+"1986-06-11T00:00:00.000Z","Portugal","Morocco",1,3,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.8561643836095725
+"1986-06-12T00:00:00.000Z","Algeria","Spain",0,3,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.9610897620291494
+"1986-06-12T00:00:00.000Z","Northern Ireland","Brazil",0,3,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.1755760916693483
+"1986-06-13T00:00:00.000Z","Denmark","Germany",2,0,"FIFA World Cup","Querétaro","Mexico","TRUE",20.5875,-100.3928,0.17575466168153797
+"1986-06-13T00:00:00.000Z","Scotland","Uruguay",0,0,"FIFA World Cup","Nezahualcóyotl","Mexico","TRUE",19.4,-98.9889,0.8090069066235832
+"1986-06-15T00:00:00.000Z","Mexico","Bulgaria",2,0,"FIFA World Cup","Mexico City","Mexico","FALSE",19.4333,-99.1333,0.35608538650065746
+"1986-06-15T00:00:00.000Z","Russia","Belgium",3,4,"FIFA World Cup","León","Mexico","TRUE",12.4333,-86.8833,0.19015236414068437
+"1986-06-16T00:00:00.000Z","Argentina","Uruguay",1,0,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.8469410777701012
+"1986-06-16T00:00:00.000Z","Brazil","Poland",4,0,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.5508407826989761
+"1986-06-17T00:00:00.000Z","Italy","France",0,2,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.4708370181509396
+"1986-06-17T00:00:00.000Z","Morocco","Germany",0,1,"FIFA World Cup","Monterrey","Mexico","TRUE",25.6667,-100.3,0.14683315908315753
+"1986-06-18T00:00:00.000Z","Denmark","Spain",1,5,"FIFA World Cup","Querétaro","Mexico","TRUE",20.5875,-100.3928,0.6742266349104866
+"1986-06-18T00:00:00.000Z","England","Paraguay",3,0,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.3144734918857306
+"1986-06-21T00:00:00.000Z","Brazil","France",1,1,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.34260126002391966
+"1986-06-21T00:00:00.000Z","Mexico","Germany",0,0,"FIFA World Cup","Monterrey","Mexico","FALSE",25.6667,-100.3,0.5511242794520574
+"1986-06-22T00:00:00.000Z","Argentina","England",2,1,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.3835864926515473
+"1986-06-22T00:00:00.000Z","Spain","Belgium",1,1,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.3998429223296325
+"1986-06-25T00:00:00.000Z","Argentina","Belgium",2,0,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.43636362806710305
+"1986-06-25T00:00:00.000Z","France","Germany",0,2,"FIFA World Cup","Guadalajara","Mexico","TRUE",20.6767,-103.3475,0.5568415557003314
+"1986-06-28T00:00:00.000Z","France","Belgium",4,2,"FIFA World Cup","Puebla","Mexico","TRUE",19.0333,-98.1833,0.4211571863418757
+"1986-06-29T00:00:00.000Z","Argentina","Germany",3,2,"FIFA World Cup","Mexico City","Mexico","TRUE",19.4333,-99.1333,0.18384191873689715
+"1990-06-08T00:00:00.000Z","Argentina","Cameroon",0,1,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.9539738525476589
+"1990-06-09T00:00:00.000Z","Italy","Austria",1,0,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.3100161051747281
+"1990-06-09T00:00:00.000Z","Russia","Romania",0,2,"FIFA World Cup","Bari","Italy","TRUE",41.1253,16.8667,0.2156655249983781
+"1990-06-09T00:00:00.000Z","United Arab Emirates","Colombia",0,2,"FIFA World Cup","Bologna","Italy","TRUE",44.4939,11.3428,0.6991997708502253
+"1990-06-10T00:00:00.000Z","Brazil","Sweden",2,1,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.605492606196609
+"1990-06-10T00:00:00.000Z","Germany","Yugoslavia",4,1,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.35665052509687856
+"1990-06-10T00:00:00.000Z","United States","Czechoslovakia",1,5,"FIFA World Cup","Florence","Italy","TRUE",43.7714,11.2542,0.37702043391058493
+"1990-06-11T00:00:00.000Z","Costa Rica","Scotland",1,0,"FIFA World Cup","Genoa","Italy","TRUE",44.4072,8.934,0.5924759713916998
+"1990-06-11T00:00:00.000Z","England","Republic of Ireland",1,1,"FIFA World Cup","Cagliari","Italy","TRUE",39.2167,9.1167,0.4899104285329281
+"1990-06-12T00:00:00.000Z","Belgium","South Korea",2,0,"FIFA World Cup","Verona","Italy","TRUE",45.4386,10.9928,0.9855034456409519
+"1990-06-12T00:00:00.000Z","Netherlands","Egypt",1,1,"FIFA World Cup","Palermo","Italy","TRUE",2.8883,-75.4339,0.24583777775894267
+"1990-06-13T00:00:00.000Z","Argentina","Russia",2,0,"FIFA World Cup","Naples","Italy","TRUE",40.8333,14.25,0.39815552872307514
+"1990-06-13T00:00:00.000Z","Uruguay","Spain",0,0,"FIFA World Cup","Udine","Italy","TRUE",46.0667,13.2333,0.15993374025125662
+"1990-06-14T00:00:00.000Z","Cameroon","Romania",2,1,"FIFA World Cup","Bari","Italy","TRUE",41.1253,16.8667,0.8428991561903849
+"1990-06-14T00:00:00.000Z","Italy","United States",1,0,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.8745001707686002
+"1990-06-14T00:00:00.000Z","Yugoslavia","Colombia",1,0,"FIFA World Cup","Bologna","Italy","TRUE",44.4939,11.3428,0.35553840691062466
+"1990-06-15T00:00:00.000Z","Austria","Czechoslovakia",0,1,"FIFA World Cup","Florence","Italy","TRUE",43.7714,11.2542,0.6921973479478889
+"1990-06-15T00:00:00.000Z","Germany","United Arab Emirates",5,1,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.35028620977282254
+"1990-06-16T00:00:00.000Z","Brazil","Costa Rica",1,0,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.43596619694389704
+"1990-06-16T00:00:00.000Z","England","Netherlands",0,0,"FIFA World Cup","Cagliari","Italy","TRUE",39.2167,9.1167,0.4758971109465615
+"1990-06-16T00:00:00.000Z","Sweden","Scotland",1,2,"FIFA World Cup","Genoa","Italy","TRUE",44.4072,8.934,0.8565808297279687
+"1990-06-17T00:00:00.000Z","Belgium","Uruguay",3,1,"FIFA World Cup","Verona","Italy","TRUE",45.4386,10.9928,0.288825859979011
+"1990-06-17T00:00:00.000Z","Republic of Ireland","Egypt",0,0,"FIFA World Cup","Palermo","Italy","TRUE",2.8883,-75.4339,0.8534244637754935
+"1990-06-17T00:00:00.000Z","South Korea","Spain",1,3,"FIFA World Cup","Udine","Italy","TRUE",46.0667,13.2333,0.15595849808386109
+"1990-06-18T00:00:00.000Z","Argentina","Romania",1,1,"FIFA World Cup","Naples","Italy","TRUE",40.8333,14.25,0.43347997378093406
+"1990-06-18T00:00:00.000Z","Cameroon","Russia",0,4,"FIFA World Cup","Bari","Italy","TRUE",41.1253,16.8667,0.521464204610135
+"1990-06-19T00:00:00.000Z","Austria","United States",2,1,"FIFA World Cup","Florence","Italy","TRUE",43.7714,11.2542,0.7459621827314602
+"1990-06-19T00:00:00.000Z","Germany","Colombia",1,1,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.16095150389775603
+"1990-06-19T00:00:00.000Z","Italy","Czechoslovakia",2,0,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.7938281730665142
+"1990-06-19T00:00:00.000Z","Yugoslavia","United Arab Emirates",4,1,"FIFA World Cup","Bologna","Italy","TRUE",44.4939,11.3428,0.5268471710501883
+"1990-06-20T00:00:00.000Z","Brazil","Scotland",1,0,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.2600922656463973
+"1990-06-20T00:00:00.000Z","Sweden","Costa Rica",1,2,"FIFA World Cup","Genoa","Italy","TRUE",44.4072,8.934,0.5057531917472347
+"1990-06-21T00:00:00.000Z","Belgium","Spain",1,2,"FIFA World Cup","Verona","Italy","TRUE",45.4386,10.9928,0.2344568716132398
+"1990-06-21T00:00:00.000Z","England","Egypt",1,0,"FIFA World Cup","Cagliari","Italy","TRUE",39.2167,9.1167,0.07916282178188205
+"1990-06-21T00:00:00.000Z","Republic of Ireland","Netherlands",1,1,"FIFA World Cup","Palermo","Italy","TRUE",2.8883,-75.4339,0.5521063381304232
+"1990-06-21T00:00:00.000Z","South Korea","Uruguay",0,1,"FIFA World Cup","Udine","Italy","TRUE",46.0667,13.2333,0.44919263381747454
+"1990-06-23T00:00:00.000Z","Cameroon","Colombia",2,1,"FIFA World Cup","Naples","Italy","TRUE",40.8333,14.25,0.04182350128406198
+"1990-06-23T00:00:00.000Z","Czechoslovakia","Costa Rica",4,1,"FIFA World Cup","Bari","Italy","TRUE",41.1253,16.8667,0.5586107928749722
+"1990-06-24T00:00:00.000Z","Brazil","Argentina",0,1,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.21596881141173863
+"1990-06-24T00:00:00.000Z","Germany","Netherlands",2,1,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.19188553529889196
+"1990-06-25T00:00:00.000Z","Republic of Ireland","Romania",0,0,"FIFA World Cup","Genoa","Italy","TRUE",44.4072,8.934,0.1419743458077325
+"1990-06-25T00:00:00.000Z","Italy","Uruguay",2,0,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.8487102743276749
+"1990-06-26T00:00:00.000Z","England","Belgium",1,0,"FIFA World Cup","Bologna","Italy","TRUE",44.4939,11.3428,0.34348829600613007
+"1990-06-26T00:00:00.000Z","Spain","Yugoslavia",1,2,"FIFA World Cup","Verona","Italy","TRUE",45.4386,10.9928,0.29788121716862315
+"1990-06-30T00:00:00.000Z","Italy","Republic of Ireland",1,0,"FIFA World Cup","Rome","Italy","FALSE",41.8931,12.4828,0.011962425256322184
+"1990-06-30T00:00:00.000Z","Yugoslavia","Argentina",0,0,"FIFA World Cup","Florence","Italy","TRUE",43.7714,11.2542,0.2312233990512238
+"1990-07-01T00:00:00.000Z","Cameroon","England",2,3,"FIFA World Cup","Naples","Italy","TRUE",40.8333,14.25,0.9801871491710819
+"1990-07-01T00:00:00.000Z","Germany","Czechoslovakia",1,0,"FIFA World Cup","Milan","Italy","TRUE",45.4669,9.19,0.7881774940080934
+"1990-07-03T00:00:00.000Z","Italy","Argentina",1,1,"FIFA World Cup","Naples","Italy","FALSE",40.8333,14.25,0.11836399761984073
+"1990-07-04T00:00:00.000Z","Germany","England",1,1,"FIFA World Cup","Turin","Italy","TRUE",45.0667,7.7,0.30670399640682944
+"1990-07-07T00:00:00.000Z","Italy","England",2,1,"FIFA World Cup","Bari","Italy","FALSE",41.1253,16.8667,0.22665839400609245
+"1990-07-08T00:00:00.000Z","Germany","Argentina",1,0,"FIFA World Cup","Rome","Italy","TRUE",41.8931,12.4828,0.5661924949156996
+"1994-06-17T00:00:00.000Z","Germany","Bolivia",1,0,"FIFA World Cup","Chicago","United States","TRUE",41.8373,-87.6862,0.8310658327379394
+"1994-06-17T00:00:00.000Z","Spain","South Korea",2,2,"FIFA World Cup","Dallas","United States","TRUE",32.7936,-96.7662,0.16041987255473877
+"1994-06-18T00:00:00.000Z","Colombia","Romania",1,3,"FIFA World Cup","Pasadena","United States","TRUE",29.6583,-95.1499,0.849859373763824
+"1994-06-18T00:00:00.000Z","Italy","Republic of Ireland",0,1,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.5019785687344864
+"1994-06-18T00:00:00.000Z","United States","Switzerland",1,1,"FIFA World Cup","Pontiac","United States","FALSE",42.6493,-83.2878,0.7231602520639893
+"1994-06-19T00:00:00.000Z","Belgium","Morocco",1,0,"FIFA World Cup","Orlando","United States","TRUE",28.4772,-81.3369,0.525675981862169
+"1994-06-19T00:00:00.000Z","Cameroon","Sweden",2,2,"FIFA World Cup","Pasadena","United States","TRUE",29.6583,-95.1499,0.8355187076797859
+"1994-06-19T00:00:00.000Z","Norway","Mexico",1,0,"FIFA World Cup","Washington","United States","TRUE",38.9047,-77.0163,0.5706889338011694
+"1994-06-20T00:00:00.000Z","Brazil","Russia",2,0,"FIFA World Cup","Palo Alto","United States","TRUE",21.9167,-101.9667,0.73850500348394
+"1994-06-20T00:00:00.000Z","Netherlands","Saudi Arabia",2,1,"FIFA World Cup","Washington","United States","TRUE",38.9047,-77.0163,0.3453238566602381
+"1994-06-21T00:00:00.000Z","Argentina","Greece",4,0,"FIFA World Cup","Foxborough","United States","TRUE",42.0627,-71.2461,0.9104371128989301
+"1994-06-21T00:00:00.000Z","Germany","Spain",1,1,"FIFA World Cup","Chicago","United States","TRUE",41.8373,-87.6862,0.6197606548043251
+"1994-06-21T00:00:00.000Z","Nigeria","Bulgaria",3,0,"FIFA World Cup","Dallas","United States","TRUE",32.7936,-96.7662,0.981993383191555
+"1994-06-22T00:00:00.000Z","Romania","Switzerland",1,4,"FIFA World Cup","Pontiac","United States","TRUE",42.6493,-83.2878,0.9445465300354292
+"1994-06-22T00:00:00.000Z","United States","Colombia",2,1,"FIFA World Cup","Pasadena","United States","FALSE",29.6583,-95.1499,0.14975168414823514
+"1994-06-23T00:00:00.000Z","Italy","Norway",1,0,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.9003921975883942
+"1994-06-23T00:00:00.000Z","South Korea","Bolivia",0,0,"FIFA World Cup","Foxborough","United States","TRUE",42.0627,-71.2461,0.5675218485399027
+"1994-06-24T00:00:00.000Z","Brazil","Cameroon",3,0,"FIFA World Cup","Palo Alto","United States","TRUE",21.9167,-101.9667,0.04397612649195515
+"1994-06-24T00:00:00.000Z","Mexico","Republic of Ireland",2,1,"FIFA World Cup","Orlando","United States","TRUE",28.4772,-81.3369,0.28214631331849893
+"1994-06-24T00:00:00.000Z","Sweden","Russia",3,1,"FIFA World Cup","Pontiac","United States","TRUE",42.6493,-83.2878,0.026285323202006827
+"1994-06-25T00:00:00.000Z","Argentina","Nigeria",2,1,"FIFA World Cup","Foxborough","United States","TRUE",42.0627,-71.2461,0.8572486145214757
+"1994-06-25T00:00:00.000Z","Belgium","Netherlands",1,0,"FIFA World Cup","Orlando","United States","TRUE",28.4772,-81.3369,0.6003231128573814
+"1994-06-25T00:00:00.000Z","Saudi Arabia","Morocco",2,1,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.04809299790497645
+"1994-06-26T00:00:00.000Z","Bulgaria","Greece",4,0,"FIFA World Cup","Chicago","United States","TRUE",41.8373,-87.6862,0.764673392348387
+"1994-06-26T00:00:00.000Z","Switzerland","Colombia",0,2,"FIFA World Cup","Palo Alto","United States","TRUE",21.9167,-101.9667,0.7950400132861672
+"1994-06-26T00:00:00.000Z","United States","Romania",0,1,"FIFA World Cup","Pasadena","United States","FALSE",29.6583,-95.1499,0.7800574079006932
+"1994-06-27T00:00:00.000Z","Bolivia","Spain",1,3,"FIFA World Cup","Chicago","United States","TRUE",41.8373,-87.6862,0.49167805253992003
+"1994-06-27T00:00:00.000Z","Germany","South Korea",3,2,"FIFA World Cup","Dallas","United States","TRUE",32.7936,-96.7662,0.9853351443634526
+"1994-06-28T00:00:00.000Z","Brazil","Sweden",1,1,"FIFA World Cup","Pontiac","United States","TRUE",42.6493,-83.2878,0.8395393300092737
+"1994-06-28T00:00:00.000Z","Republic of Ireland","Norway",0,0,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.9815395854327054
+"1994-06-28T00:00:00.000Z","Italy","Mexico",1,1,"FIFA World Cup","Washington","United States","TRUE",38.9047,-77.0163,0.6953801660244554
+"1994-06-28T00:00:00.000Z","Russia","Cameroon",6,1,"FIFA World Cup","Palo Alto","United States","TRUE",21.9167,-101.9667,0.5343656249138573
+"1994-06-29T00:00:00.000Z","Belgium","Saudi Arabia",0,1,"FIFA World Cup","Washington","United States","TRUE",38.9047,-77.0163,0.8196368120187156
+"1994-06-29T00:00:00.000Z","Morocco","Netherlands",1,2,"FIFA World Cup","Orlando","United States","TRUE",28.4772,-81.3369,0.36275255948373
+"1994-06-30T00:00:00.000Z","Argentina","Bulgaria",0,2,"FIFA World Cup","Dallas","United States","TRUE",32.7936,-96.7662,0.3357634362659849
+"1994-06-30T00:00:00.000Z","Greece","Nigeria",0,2,"FIFA World Cup","Foxborough","United States","TRUE",42.0627,-71.2461,0.6184582223551023
+"1994-07-02T00:00:00.000Z","Germany","Belgium",3,2,"FIFA World Cup","Chicago","United States","TRUE",41.8373,-87.6862,0.06866012243700115
+"1994-07-02T00:00:00.000Z","Spain","Switzerland",3,0,"FIFA World Cup","Washington","United States","TRUE",38.9047,-77.0163,0.8540546099609956
+"1994-07-03T00:00:00.000Z","Romania","Argentina",3,2,"FIFA World Cup","Pasadena","United States","TRUE",29.6583,-95.1499,0.20639634127815953
+"1994-07-03T00:00:00.000Z","Saudi Arabia","Sweden",1,3,"FIFA World Cup","Dallas","United States","TRUE",32.7936,-96.7662,0.9947025854227309
+"1994-07-04T00:00:00.000Z","Netherlands","Republic of Ireland",2,0,"FIFA World Cup","Orlando","United States","TRUE",28.4772,-81.3369,0.4675644327664914
+"1994-07-04T00:00:00.000Z","United States","Brazil",0,1,"FIFA World Cup","Palo Alto","United States","FALSE",21.9167,-101.9667,0.8632074994638357
+"1994-07-05T00:00:00.000Z","Mexico","Bulgaria",1,1,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.2403478132589314
+"1994-07-05T00:00:00.000Z","Nigeria","Italy",1,2,"FIFA World Cup","Foxborough","United States","TRUE",42.0627,-71.2461,0.4187697816092433
+"1994-07-09T00:00:00.000Z","Italy","Spain",2,1,"FIFA World Cup","Foxborough","United States","TRUE",42.0627,-71.2461,0.34255499351910035
+"1994-07-09T00:00:00.000Z","Netherlands","Brazil",2,3,"FIFA World Cup","Dallas","United States","TRUE",32.7936,-96.7662,0.8438207576328194
+"1994-07-10T00:00:00.000Z","Bulgaria","Germany",2,1,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.23708137265218832
+"1994-07-10T00:00:00.000Z","Romania","Sweden",2,2,"FIFA World Cup","Palo Alto","United States","TRUE",21.9167,-101.9667,0.8308333382100435
+"1994-07-13T00:00:00.000Z","Bulgaria","Italy",1,2,"FIFA World Cup","East Rutherford","United States","TRUE",40.8179,-74.0854,0.582013188392976
+"1994-07-13T00:00:00.000Z","Sweden","Brazil",0,1,"FIFA World Cup","Pasadena","United States","TRUE",29.6583,-95.1499,0.6308636524768854
+"1994-07-16T00:00:00.000Z","Sweden","Bulgaria",4,0,"FIFA World Cup","Pasadena","United States","TRUE",29.6583,-95.1499,0.49356654805328914
+"1994-07-17T00:00:00.000Z","Brazil","Italy",0,0,"FIFA World Cup","Pasadena","United States","TRUE",29.6583,-95.1499,0.3450284635355392
+"1998-06-10T00:00:00.000Z","Brazil","Scotland",2,1,"FIFA World Cup","Saint-Denis","France","TRUE",-20.8789,55.4481,0.7846954981368364
+"1998-06-10T00:00:00.000Z","Morocco","Norway",2,2,"FIFA World Cup","Montpellier","France","TRUE",43.6119,3.8772,0.33257946631352686
+"1998-06-11T00:00:00.000Z","Cameroon","Austria",1,1,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.4683865207084881
+"1998-06-11T00:00:00.000Z","Italy","Chile",2,2,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.6348380447878847
+"1998-06-12T00:00:00.000Z","France","South Africa",3,0,"FIFA World Cup","Marseille","France","FALSE",43.2964,5.37,0.9143839178030375
+"1998-06-12T00:00:00.000Z","Paraguay","Bulgaria",0,0,"FIFA World Cup","Montpellier","France","TRUE",43.6119,3.8772,0.2709682052075597
+"1998-06-12T00:00:00.000Z","Saudi Arabia","Denmark",0,1,"FIFA World Cup","Lens","France","TRUE",50.4322,2.8333,0.14943439189345575
+"1998-06-13T00:00:00.000Z","South Korea","Mexico",1,3,"FIFA World Cup","Lyon","France","TRUE",45.76,4.84,0.4065184644692905
+"1998-06-13T00:00:00.000Z","Netherlands","Belgium",0,0,"FIFA World Cup","Saint-Denis","France","TRUE",-20.8789,55.4481,0.21102112174697218
+"1998-06-13T00:00:00.000Z","Spain","Nigeria",2,3,"FIFA World Cup","Nantes","France","TRUE",47.2181,-1.5528,0.016290349069715493
+"1998-06-14T00:00:00.000Z","Argentina","Japan",1,0,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.6786933688274559
+"1998-06-14T00:00:00.000Z","Jamaica","Croatia",1,3,"FIFA World Cup","Lens","France","TRUE",50.4322,2.8333,0.26638614276628436
+"1998-06-14T00:00:00.000Z","Serbia","Iran",1,0,"FIFA World Cup","Saint-Étienne","France","TRUE",45.4347,4.3903,0.8558947083450215
+"1998-06-15T00:00:00.000Z","England","Tunisia",2,0,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.9540509484193846
+"1998-06-15T00:00:00.000Z","Germany","United States",2,0,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.7146385432385938
+"1998-06-15T00:00:00.000Z","Romania","Colombia",1,0,"FIFA World Cup","Lyon","France","TRUE",45.76,4.84,0.3273131926631445
+"1998-06-16T00:00:00.000Z","Brazil","Morocco",3,0,"FIFA World Cup","Nantes","France","TRUE",47.2181,-1.5528,0.5743730618599971
+"1998-06-16T00:00:00.000Z","Scotland","Norway",1,1,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.9123983575596017
+"1998-06-17T00:00:00.000Z","Chile","Austria",1,1,"FIFA World Cup","Saint-Étienne","France","TRUE",45.4347,4.3903,0.33195986523699306
+"1998-06-17T00:00:00.000Z","Italy","Cameroon",3,0,"FIFA World Cup","Montpellier","France","TRUE",43.6119,3.8772,0.6141470821189821
+"1998-06-18T00:00:00.000Z","France","Saudi Arabia",4,0,"FIFA World Cup","Saint-Denis","France","FALSE",-20.8789,55.4481,0.6279817116462711
+"1998-06-18T00:00:00.000Z","South Africa","Denmark",1,1,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.05615749378124324
+"1998-06-19T00:00:00.000Z","Nigeria","Bulgaria",1,0,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.7979910834297721
+"1998-06-19T00:00:00.000Z","Spain","Paraguay",0,0,"FIFA World Cup","Saint-Étienne","France","TRUE",45.4347,4.3903,0.3849299702048281
+"1998-06-20T00:00:00.000Z","Belgium","Mexico",2,2,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.789139436919386
+"1998-06-20T00:00:00.000Z","Japan","Croatia",0,1,"FIFA World Cup","Nantes","France","TRUE",47.2181,-1.5528,0.19612784438314734
+"1998-06-20T00:00:00.000Z","Netherlands","South Korea",5,0,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.5555118871964098
+"1998-06-21T00:00:00.000Z","Argentina","Jamaica",5,0,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.643587243163138
+"1998-06-21T00:00:00.000Z","Germany","Serbia",2,2,"FIFA World Cup","Lens","France","TRUE",50.4322,2.8333,0.4891374520014802
+"1998-06-21T00:00:00.000Z","United States","Iran",1,2,"FIFA World Cup","Lyon","France","TRUE",45.76,4.84,0.8417619534446059
+"1998-06-22T00:00:00.000Z","Colombia","Tunisia",1,0,"FIFA World Cup","Montpellier","France","TRUE",43.6119,3.8772,0.06075151533985168
+"1998-06-22T00:00:00.000Z","Romania","England",2,1,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.22639320838121724
+"1998-06-23T00:00:00.000Z","Brazil","Norway",1,2,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.9473784887212573
+"1998-06-23T00:00:00.000Z","Chile","Cameroon",1,1,"FIFA World Cup","Nantes","France","TRUE",47.2181,-1.5528,0.8073556450494532
+"1998-06-23T00:00:00.000Z","Italy","Austria",2,1,"FIFA World Cup","Saint-Denis","France","TRUE",-20.8789,55.4481,0.4456309444457902
+"1998-06-23T00:00:00.000Z","Scotland","Morocco",0,3,"FIFA World Cup","Saint-Étienne","France","TRUE",45.4347,4.3903,0.5512571566021953
+"1998-06-24T00:00:00.000Z","France","Denmark",2,1,"FIFA World Cup","Lyon","France","FALSE",45.76,4.84,0.6415398545512254
+"1998-06-24T00:00:00.000Z","Nigeria","Paraguay",1,3,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.19337440684498364
+"1998-06-24T00:00:00.000Z","South Africa","Saudi Arabia",2,2,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.47079860290434916
+"1998-06-24T00:00:00.000Z","Spain","Bulgaria",6,1,"FIFA World Cup","Lens","France","TRUE",50.4322,2.8333,0.8034002206645317
+"1998-06-25T00:00:00.000Z","Belgium","South Korea",1,1,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.5856347236577917
+"1998-06-25T00:00:00.000Z","Germany","Iran",2,0,"FIFA World Cup","Montpellier","France","TRUE",43.6119,3.8772,0.5676285964868615
+"1998-06-25T00:00:00.000Z","Netherlands","Mexico",2,2,"FIFA World Cup","Saint-Étienne","France","TRUE",45.4347,4.3903,0.1283333471042587
+"1998-06-25T00:00:00.000Z","United States","Serbia",0,1,"FIFA World Cup","Nantes","France","TRUE",47.2181,-1.5528,0.09967454152946864
+"1998-06-26T00:00:00.000Z","Argentina","Croatia",1,0,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.32434075062669887
+"1998-06-26T00:00:00.000Z","Colombia","England",0,2,"FIFA World Cup","Lens","France","TRUE",50.4322,2.8333,0.41506888007719
+"1998-06-26T00:00:00.000Z","Japan","Jamaica",1,2,"FIFA World Cup","Lyon","France","TRUE",45.76,4.84,0.015927939366152888
+"1998-06-26T00:00:00.000Z","Romania","Tunisia",1,1,"FIFA World Cup","Saint-Denis","France","TRUE",-20.8789,55.4481,0.279724140560754
+"1998-06-27T00:00:00.000Z","Brazil","Chile",4,1,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.8430834507374443
+"1998-06-27T00:00:00.000Z","Italy","Norway",1,0,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.6499401583175981
+"1998-06-28T00:00:00.000Z","France","Paraguay",1,0,"FIFA World Cup","Lens","France","FALSE",50.4322,2.8333,0.1664882130733858
+"1998-06-28T00:00:00.000Z","Nigeria","Denmark",1,4,"FIFA World Cup","Saint-Denis","France","TRUE",-20.8789,55.4481,0.5457186732837487
+"1998-06-29T00:00:00.000Z","Germany","Mexico",2,1,"FIFA World Cup","Montpellier","France","TRUE",43.6119,3.8772,0.10517522495925014
+"1998-06-29T00:00:00.000Z","Netherlands","Serbia",2,1,"FIFA World Cup","Toulouse","France","TRUE",43.6045,1.444,0.8611326577002052
+"1998-06-30T00:00:00.000Z","Argentina","England",2,2,"FIFA World Cup","Saint-Étienne","France","TRUE",45.4347,4.3903,0.23817467428775796
+"1998-06-30T00:00:00.000Z","Romania","Croatia",0,1,"FIFA World Cup","Bordeaux","France","TRUE",44.84,-0.58,0.7853924229370466
+"1998-07-03T00:00:00.000Z","Brazil","Denmark",3,2,"FIFA World Cup","Nantes","France","TRUE",47.2181,-1.5528,0.1443432552043662
+"1998-07-03T00:00:00.000Z","France","Italy",0,0,"FIFA World Cup","Saint-Denis","France","FALSE",-20.8789,55.4481,0.04090169596938997
+"1998-07-04T00:00:00.000Z","Germany","Croatia",0,3,"FIFA World Cup","Lyon","France","TRUE",45.76,4.84,0.3563877892284548
+"1998-07-04T00:00:00.000Z","Netherlands","Argentina",2,1,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.3067499547099781
+"1998-07-07T00:00:00.000Z","Brazil","Netherlands",1,1,"FIFA World Cup","Marseille","France","TRUE",43.2964,5.37,0.9759255556516262
+"1998-07-08T00:00:00.000Z","France","Croatia",2,1,"FIFA World Cup","Saint-Denis","France","FALSE",-20.8789,55.4481,0.2439622325573465
+"1998-07-11T00:00:00.000Z","Netherlands","Croatia",1,2,"FIFA World Cup","Paris","France","TRUE",48.8566,2.3522,0.41827042991946173
+"1998-07-12T00:00:00.000Z","France","Brazil",3,0,"FIFA World Cup","Saint-Denis","France","FALSE",-20.8789,55.4481,0.6293330138948294
+"2002-05-31T00:00:00.000Z","France","Senegal",0,1,"FIFA World Cup","Seoul","South Korea","TRUE",37.56,126.99,0.4039870115882902
+"2002-06-01T00:00:00.000Z","Germany","Saudi Arabia",8,0,"FIFA World Cup","Sapporo","Japan","TRUE",43.0621,141.3544,0.5086254199366287
+"2002-06-01T00:00:00.000Z","Republic of Ireland","Cameroon",1,1,"FIFA World Cup","Niigata","Japan","TRUE",37.9161,139.0364,0.489986371338506
+"2002-06-01T00:00:00.000Z","Uruguay","Denmark",1,2,"FIFA World Cup","Ulsan","South Korea","TRUE",35.55,129.3167,0.9233576148902511
+"2002-06-02T00:00:00.000Z","Argentina","Nigeria",1,0,"FIFA World Cup","Kashima","Japan","TRUE",35.9658,140.645,0.5414698252336165
+"2002-06-02T00:00:00.000Z","England","Sweden",1,1,"FIFA World Cup","Saitama","Japan","TRUE",35.8617,139.6453,0.9089967674969892
+"2002-06-02T00:00:00.000Z","Paraguay","South Africa",2,2,"FIFA World Cup","Busan","South Korea","TRUE",35.1,129.0403,0.10656648568333749
+"2002-06-02T00:00:00.000Z","Spain","Slovenia",3,1,"FIFA World Cup","Gwangju","South Korea","TRUE",35.1667,126.9167,0.5468774437679464
+"2002-06-03T00:00:00.000Z","Brazil","Turkey",2,1,"FIFA World Cup","Ulsan","South Korea","TRUE",35.55,129.3167,0.4241000394508949
+"2002-06-03T00:00:00.000Z","Croatia","Mexico",0,1,"FIFA World Cup","Niigata","Japan","TRUE",37.9161,139.0364,0.4264796440189418
+"2002-06-03T00:00:00.000Z","Italy","Ecuador",2,0,"FIFA World Cup","Sapporo","Japan","TRUE",43.0621,141.3544,0.41859297947119223
+"2002-06-04T00:00:00.000Z","China PR","Costa Rica",0,2,"FIFA World Cup","Gwangju","South Korea","TRUE",35.1667,126.9167,0.4995149941625536
+"2002-06-04T00:00:00.000Z","Japan","Belgium",2,2,"FIFA World Cup","Saitama","Japan","FALSE",35.8617,139.6453,0.5929661407216524
+"2002-06-04T00:00:00.000Z","South Korea","Poland",2,0,"FIFA World Cup","Busan","South Korea","FALSE",35.1,129.0403,0.42263668967104295
+"2002-06-05T00:00:00.000Z","Germany","Republic of Ireland",1,1,"FIFA World Cup","Kashima","Japan","TRUE",35.9658,140.645,0.0019997337335133647
+"2002-06-05T00:00:00.000Z","Russia","Tunisia",2,0,"FIFA World Cup","Kobe","Japan","TRUE",35.6839,139.7744,0.4700533248973964
+"2002-06-05T00:00:00.000Z","United States","Portugal",3,2,"FIFA World Cup","Suwon","South Korea","TRUE",37.2858,127.01,0.030072986796819468
+"2002-06-06T00:00:00.000Z","Cameroon","Saudi Arabia",1,0,"FIFA World Cup","Saitama","Japan","TRUE",35.8617,139.6453,0.414404283252104
+"2002-06-06T00:00:00.000Z","Denmark","Senegal",1,1,"FIFA World Cup","Daegu","South Korea","TRUE",35.8667,128.6,0.5693578703319693
+"2002-06-06T00:00:00.000Z","France","Uruguay",0,0,"FIFA World Cup","Busan","South Korea","TRUE",35.1,129.0403,0.8889895790555766
+"2002-06-07T00:00:00.000Z","Argentina","England",0,1,"FIFA World Cup","Sapporo","Japan","TRUE",43.0621,141.3544,0.5847424156457426
+"2002-06-07T00:00:00.000Z","Spain","Paraguay",3,1,"FIFA World Cup","Jeonju","South Korea","TRUE",35.8219,127.1489,0.25915601313551395
+"2002-06-07T00:00:00.000Z","Sweden","Nigeria",2,1,"FIFA World Cup","Kobe","Japan","TRUE",35.6839,139.7744,0.5081593198691572
+"2002-06-08T00:00:00.000Z","Brazil","China PR",4,0,"FIFA World Cup","Seogwipo","South Korea","TRUE",33.2497,126.56,0.6941152149799885
+"2002-06-08T00:00:00.000Z","Italy","Croatia",1,2,"FIFA World Cup","Kashima","Japan","TRUE",35.9658,140.645,0.9943405153066049
+"2002-06-08T00:00:00.000Z","South Africa","Slovenia",1,0,"FIFA World Cup","Daegu","South Korea","TRUE",35.8667,128.6,0.7097482655930858
+"2002-06-09T00:00:00.000Z","Costa Rica","Turkey",1,1,"FIFA World Cup","Incheon","South Korea","TRUE",37.4639,126.6486,0.42697991730845475
+"2002-06-09T00:00:00.000Z","Japan","Russia",1,0,"FIFA World Cup","Yokohama","Japan","FALSE",35.4333,139.6333,0.09081361431778312
+"2002-06-09T00:00:00.000Z","Mexico","Ecuador",2,1,"FIFA World Cup","Rifu","Japan","TRUE",38.3303,140.9756,0.8558259761891069
+"2002-06-10T00:00:00.000Z","South Korea","United States",1,1,"FIFA World Cup","Daegu","South Korea","FALSE",35.8667,128.6,0.16321407532249443
+"2002-06-10T00:00:00.000Z","Portugal","Poland",4,0,"FIFA World Cup","Jeonju","South Korea","TRUE",35.8219,127.1489,0.5499755731221332
+"2002-06-10T00:00:00.000Z","Tunisia","Belgium",1,1,"FIFA World Cup","Ōita","Japan","TRUE",33.2333,131.6067,0.9734633398327415
+"2002-06-11T00:00:00.000Z","Cameroon","Germany",0,2,"FIFA World Cup","Fukuroi","Japan","TRUE",34.7503,137.925,0.8668856211367868
+"2002-06-11T00:00:00.000Z","Denmark","France",2,0,"FIFA World Cup","Incheon","South Korea","TRUE",37.4639,126.6486,0.6189242278507034
+"2002-06-11T00:00:00.000Z","Saudi Arabia","Republic of Ireland",0,3,"FIFA World Cup","Yokohama","Japan","TRUE",35.4333,139.6333,0.7280315132766348
+"2002-06-11T00:00:00.000Z","Senegal","Uruguay",3,3,"FIFA World Cup","Suwon","South Korea","TRUE",37.2858,127.01,0.2886345898486018
+"2002-06-12T00:00:00.000Z","Nigeria","England",0,0,"FIFA World Cup","Osaka","Japan","TRUE",35.6839,139.7744,0.5698848228788636
+"2002-06-12T00:00:00.000Z","Slovenia","Paraguay",1,3,"FIFA World Cup","Seogwipo","South Korea","TRUE",33.2497,126.56,0.02484629971914032
+"2002-06-12T00:00:00.000Z","South Africa","Spain",2,3,"FIFA World Cup","Daejeon","South Korea","TRUE",36.351,127.385,0.8782997687369536
+"2002-06-12T00:00:00.000Z","Sweden","Argentina",1,1,"FIFA World Cup","Rifu","Japan","TRUE",38.3303,140.9756,0.0857917011927738
+"2002-06-13T00:00:00.000Z","Costa Rica","Brazil",2,5,"FIFA World Cup","Suwon","South Korea","TRUE",37.2858,127.01,0.6689044675205844
+"2002-06-13T00:00:00.000Z","Ecuador","Croatia",1,0,"FIFA World Cup","Yokohama","Japan","TRUE",35.4333,139.6333,0.3665978773827292
+"2002-06-13T00:00:00.000Z","Mexico","Italy",1,1,"FIFA World Cup","Ōita","Japan","TRUE",33.2333,131.6067,0.8374805601803412
+"2002-06-13T00:00:00.000Z","Turkey","China PR",3,0,"FIFA World Cup","Seoul","South Korea","TRUE",37.56,126.99,0.9180100414642614
+"2002-06-14T00:00:00.000Z","Belgium","Russia",3,2,"FIFA World Cup","Fukuroi","Japan","TRUE",34.7503,137.925,0.1378063103780689
+"2002-06-14T00:00:00.000Z","Japan","Tunisia",2,0,"FIFA World Cup","Osaka","Japan","FALSE",35.6839,139.7744,0.4088028226448981
+"2002-06-14T00:00:00.000Z","South Korea","Portugal",1,0,"FIFA World Cup","Incheon","South Korea","FALSE",37.4639,126.6486,0.9476922422106488
+"2002-06-14T00:00:00.000Z","Poland","United States",3,1,"FIFA World Cup","Daejeon","South Korea","TRUE",36.351,127.385,0.2577714751273179
+"2002-06-15T00:00:00.000Z","Denmark","England",0,3,"FIFA World Cup","Niigata","Japan","TRUE",37.9161,139.0364,0.5858107984846666
+"2002-06-15T00:00:00.000Z","Germany","Paraguay",1,0,"FIFA World Cup","Seogwipo","South Korea","TRUE",33.2497,126.56,0.5388715704792402
+"2002-06-16T00:00:00.000Z","Spain","Republic of Ireland",1,1,"FIFA World Cup","Suwon","South Korea","TRUE",37.2858,127.01,0.2518825961735758
+"2002-06-16T00:00:00.000Z","Sweden","Senegal",1,2,"FIFA World Cup","Ōita","Japan","TRUE",33.2333,131.6067,0.7968660604511997
+"2002-06-17T00:00:00.000Z","Brazil","Belgium",2,0,"FIFA World Cup","Kobe","Japan","TRUE",35.6839,139.7744,0.2908365437470819
+"2002-06-17T00:00:00.000Z","Mexico","United States",0,2,"FIFA World Cup","Jeonju","South Korea","TRUE",35.8219,127.1489,0.10599775363836539
+"2002-06-18T00:00:00.000Z","Japan","Turkey",0,1,"FIFA World Cup","Rifu","Japan","FALSE",38.3303,140.9756,0.850702110942372
+"2002-06-18T00:00:00.000Z","South Korea","Italy",2,1,"FIFA World Cup","Daejeon","South Korea","FALSE",36.351,127.385,0.005510540468924852
+"2002-06-21T00:00:00.000Z","England","Brazil",1,2,"FIFA World Cup","Fukuroi","Japan","TRUE",34.7503,137.925,0.4404364164449268
+"2002-06-21T00:00:00.000Z","Germany","United States",1,0,"FIFA World Cup","Ulsan","South Korea","TRUE",35.55,129.3167,0.2500612679659542
+"2002-06-22T00:00:00.000Z","South Korea","Spain",0,0,"FIFA World Cup","Gwangju","South Korea","FALSE",35.1667,126.9167,0.24906647905067847
+"2002-06-22T00:00:00.000Z","Senegal","Turkey",0,1,"FIFA World Cup","Osaka","Japan","TRUE",35.6839,139.7744,0.7886765851296464
+"2002-06-25T00:00:00.000Z","South Korea","Germany",0,1,"FIFA World Cup","Seoul","South Korea","FALSE",37.56,126.99,0.7714917900236755
+"2002-06-26T00:00:00.000Z","Brazil","Turkey",1,0,"FIFA World Cup","Saitama","Japan","TRUE",35.8617,139.6453,0.7861362421662541
+"2002-06-29T00:00:00.000Z","South Korea","Turkey",2,3,"FIFA World Cup","Daegu","South Korea","FALSE",35.8667,128.6,0.9935492214744837
+"2002-06-30T00:00:00.000Z","Germany","Brazil",0,2,"FIFA World Cup","Yokohama","Japan","TRUE",35.4333,139.6333,0.9030346647857106
+"2006-06-09T00:00:00.000Z","Germany","Costa Rica",4,2,"FIFA World Cup","Munich","Germany","FALSE",48.1375,11.575,0.7745977487511444
+"2006-06-09T00:00:00.000Z","Poland","Ecuador",0,2,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.5781001684354263
+"2006-06-10T00:00:00.000Z","Argentina","Ivory Coast",2,1,"FIFA World Cup","Hamburg","Germany","TRUE",53.55,10,0.12562947981357397
+"2006-06-10T00:00:00.000Z","England","Paraguay",1,0,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.641701232441493
+"2006-06-10T00:00:00.000Z","Trinidad and Tobago","Sweden",0,0,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.4541873858144443
+"2006-06-11T00:00:00.000Z","Angola","Portugal",0,1,"FIFA World Cup","Cologne","Germany","TRUE",50.9422,6.9578,0.0030271787056537214
+"2006-06-11T00:00:00.000Z","Mexico","Iran",3,1,"FIFA World Cup","Nuremberg","Germany","TRUE",49.4539,11.0775,0.9196664839628654
+"2006-06-11T00:00:00.000Z","Serbia","Netherlands",0,1,"FIFA World Cup","Leipzig","Germany","TRUE",51.3333,12.3833,0.7609553529849586
+"2006-06-12T00:00:00.000Z","Australia","Japan",3,1,"FIFA World Cup","Kaiserslautern","Germany","TRUE",49.4447,7.7689,0.980317810238746
+"2006-06-12T00:00:00.000Z","Italy","Ghana",2,0,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.03834249913631771
+"2006-06-12T00:00:00.000Z","United States","Czech Republic",0,3,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.6020988714982742
+"2006-06-13T00:00:00.000Z","Brazil","Croatia",1,0,"FIFA World Cup","Berlin","Germany","TRUE",52.5167,13.3833,0.005885788446933882
+"2006-06-13T00:00:00.000Z","France","Switzerland",0,0,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.628650573689685
+"2006-06-13T00:00:00.000Z","South Korea","Togo",2,1,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.03428526672404497
+"2006-06-14T00:00:00.000Z","Germany","Poland",1,0,"FIFA World Cup","Dortmund","Germany","FALSE",51.5139,7.4653,0.5168533532287356
+"2006-06-14T00:00:00.000Z","Spain","Ukraine",4,0,"FIFA World Cup","Leipzig","Germany","TRUE",51.3333,12.3833,0.9650818685071809
+"2006-06-14T00:00:00.000Z","Tunisia","Saudi Arabia",2,2,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.5553385007470606
+"2006-06-15T00:00:00.000Z","Ecuador","Costa Rica",3,0,"FIFA World Cup","Hamburg","Germany","TRUE",53.55,10,0.0418248714705054
+"2006-06-15T00:00:00.000Z","England","Trinidad and Tobago",2,0,"FIFA World Cup","Nuremberg","Germany","TRUE",49.4539,11.0775,0.49265455943799896
+"2006-06-15T00:00:00.000Z","Sweden","Paraguay",1,0,"FIFA World Cup","Berlin","Germany","TRUE",52.5167,13.3833,0.5890781741590743
+"2006-06-16T00:00:00.000Z","Argentina","Serbia",6,0,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.29131479666221494
+"2006-06-16T00:00:00.000Z","Mexico","Angola",0,0,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.3565201196374921
+"2006-06-16T00:00:00.000Z","Netherlands","Ivory Coast",2,1,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.5174695950401513
+"2006-06-17T00:00:00.000Z","Czech Republic","Ghana",0,2,"FIFA World Cup","Cologne","Germany","TRUE",50.9422,6.9578,0.496666386770676
+"2006-06-17T00:00:00.000Z","Italy","United States",1,1,"FIFA World Cup","Kaiserslautern","Germany","TRUE",49.4447,7.7689,0.5160658952117751
+"2006-06-17T00:00:00.000Z","Portugal","Iran",2,0,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.17630503611017656
+"2006-06-18T00:00:00.000Z","Brazil","Australia",2,0,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.8942170505570981
+"2006-06-18T00:00:00.000Z","France","South Korea",1,1,"FIFA World Cup","Leipzig","Germany","TRUE",51.3333,12.3833,0.5525979123746181
+"2006-06-18T00:00:00.000Z","Japan","Croatia",0,0,"FIFA World Cup","Nuremberg","Germany","TRUE",49.4539,11.0775,0.08426803166869945
+"2006-06-19T00:00:00.000Z","Saudi Arabia","Ukraine",0,4,"FIFA World Cup","Hamburg","Germany","TRUE",53.55,10,0.6075297609836952
+"2006-06-19T00:00:00.000Z","Spain","Tunisia",3,1,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.12443298930717317
+"2006-06-19T00:00:00.000Z","Togo","Switzerland",0,2,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.520382643404979
+"2006-06-20T00:00:00.000Z","Costa Rica","Poland",1,2,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.2964924355250944
+"2006-06-20T00:00:00.000Z","Germany","Ecuador",3,0,"FIFA World Cup","Berlin","Germany","FALSE",52.5167,13.3833,0.27970678047060304
+"2006-06-20T00:00:00.000Z","Paraguay","Trinidad and Tobago",2,0,"FIFA World Cup","Kaiserslautern","Germany","TRUE",49.4447,7.7689,0.4493128654905574
+"2006-06-20T00:00:00.000Z","Sweden","England",2,2,"FIFA World Cup","Cologne","Germany","TRUE",50.9422,6.9578,0.2902985209619633
+"2006-06-21T00:00:00.000Z","Iran","Angola",1,1,"FIFA World Cup","Leipzig","Germany","TRUE",51.3333,12.3833,0.7138982487763288
+"2006-06-21T00:00:00.000Z","Ivory Coast","Serbia",3,2,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.040565844134010876
+"2006-06-21T00:00:00.000Z","Netherlands","Argentina",0,0,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.3218750873469778
+"2006-06-21T00:00:00.000Z","Portugal","Mexico",2,1,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.4370506070086029
+"2006-06-22T00:00:00.000Z","Croatia","Australia",2,2,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.6741033276029802
+"2006-06-22T00:00:00.000Z","Czech Republic","Italy",0,2,"FIFA World Cup","Hamburg","Germany","TRUE",53.55,10,0.9087321962329649
+"2006-06-22T00:00:00.000Z","Ghana","United States",2,1,"FIFA World Cup","Nuremberg","Germany","TRUE",49.4539,11.0775,0.7130196032684686
+"2006-06-22T00:00:00.000Z","Japan","Brazil",1,4,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.47409250189378405
+"2006-06-23T00:00:00.000Z","Saudi Arabia","Spain",0,1,"FIFA World Cup","Kaiserslautern","Germany","TRUE",49.4447,7.7689,0.022781585349035405
+"2006-06-23T00:00:00.000Z","Switzerland","South Korea",2,0,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.8098753336105415
+"2006-06-23T00:00:00.000Z","Togo","France",0,2,"FIFA World Cup","Cologne","Germany","TRUE",50.9422,6.9578,0.12896465301543225
+"2006-06-23T00:00:00.000Z","Ukraine","Tunisia",1,0,"FIFA World Cup","Berlin","Germany","TRUE",52.5167,13.3833,0.3414029745444429
+"2006-06-24T00:00:00.000Z","Argentina","Mexico",2,1,"FIFA World Cup","Leipzig","Germany","TRUE",51.3333,12.3833,0.3150041283840592
+"2006-06-24T00:00:00.000Z","Germany","Sweden",2,0,"FIFA World Cup","Munich","Germany","FALSE",48.1375,11.575,0.4179714232488725
+"2006-06-25T00:00:00.000Z","England","Ecuador",1,0,"FIFA World Cup","Stuttgart","Germany","TRUE",48.7761,9.1775,0.17266036178504462
+"2006-06-25T00:00:00.000Z","Portugal","Netherlands",1,0,"FIFA World Cup","Nuremberg","Germany","TRUE",49.4539,11.0775,0.2661480917909058
+"2006-06-26T00:00:00.000Z","Italy","Australia",1,0,"FIFA World Cup","Kaiserslautern","Germany","TRUE",49.4447,7.7689,0.9066759944160991
+"2006-06-26T00:00:00.000Z","Switzerland","Ukraine",0,0,"FIFA World Cup","Cologne","Germany","TRUE",50.9422,6.9578,0.7361154632160734
+"2006-06-27T00:00:00.000Z","Brazil","Ghana",3,0,"FIFA World Cup","Dortmund","Germany","TRUE",51.5139,7.4653,0.7402014625623032
+"2006-06-27T00:00:00.000Z","Spain","France",1,3,"FIFA World Cup","Hanover","Germany","TRUE",39.8117,-76.9835,0.3976750843027017
+"2006-06-30T00:00:00.000Z","Germany","Argentina",1,1,"FIFA World Cup","Berlin","Germany","FALSE",52.5167,13.3833,0.5673158419146167
+"2006-06-30T00:00:00.000Z","Italy","Ukraine",3,0,"FIFA World Cup","Hamburg","Germany","TRUE",53.55,10,0.9682109188426353
+"2006-07-01T00:00:00.000Z","Brazil","France",0,1,"FIFA World Cup","Frankfurt am Main","Germany","TRUE",52.5167,13.3833,0.9795103800246752
+"2006-07-01T00:00:00.000Z","England","Portugal",0,0,"FIFA World Cup","Gelsenkirchen","Germany","TRUE",51.5167,7.1,0.7232679967811133
+"2006-07-04T00:00:00.000Z","Germany","Italy",0,2,"FIFA World Cup","Dortmund","Germany","FALSE",51.5139,7.4653,0.8251357752981126
+"2006-07-05T00:00:00.000Z","Portugal","France",0,1,"FIFA World Cup","Munich","Germany","TRUE",48.1375,11.575,0.3456564184321782
+"2006-07-08T00:00:00.000Z","Germany","Portugal",3,1,"FIFA World Cup","Stuttgart","Germany","FALSE",48.7761,9.1775,0.3067986694131226
+"2006-07-09T00:00:00.000Z","Italy","France",1,1,"FIFA World Cup","Berlin","Germany","TRUE",52.5167,13.3833,0.18340625987382664
+"2010-06-11T00:00:00.000Z","South Africa","Mexico",1,1,"FIFA World Cup","Johannesburg","South Africa","FALSE",-26.2044,28.0416,0.7467571344798531
+"2010-06-11T00:00:00.000Z","Uruguay","France",0,0,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.41620409271285275
+"2010-06-12T00:00:00.000Z","Argentina","Nigeria",1,0,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.4372460517480614
+"2010-06-12T00:00:00.000Z","England","United States",1,1,"FIFA World Cup","Rustenburg","South Africa","TRUE",-25.6667,27.2336,0.16128816276828983
+"2010-06-12T00:00:00.000Z","South Korea","Greece",2,0,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.8613463165900672
+"2010-06-13T00:00:00.000Z","Algeria","Slovenia",0,1,"FIFA World Cup","Polokwane","South Africa","TRUE",-23.9,29.45,0.4413207197521891
+"2010-06-13T00:00:00.000Z","Germany","Australia",4,0,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.9841336419543487
+"2010-06-13T00:00:00.000Z","Serbia","Ghana",0,1,"FIFA World Cup","Pretoria","South Africa","TRUE",-25.7464,28.1881,0.7398052468960148
+"2010-06-14T00:00:00.000Z","Italy","Paraguay",1,1,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.370868336589123
+"2010-06-14T00:00:00.000Z","Japan","Cameroon",1,0,"FIFA World Cup","Bloemfontein","South Africa","TRUE",-29.1,26.2167,0.17931876259807278
+"2010-06-14T00:00:00.000Z","Netherlands","Denmark",2,0,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.4948281113681232
+"2010-06-15T00:00:00.000Z","Brazil","North Korea",2,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.0667683195156934
+"2010-06-15T00:00:00.000Z","Ivory Coast","Portugal",0,0,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.9801018933603018
+"2010-06-15T00:00:00.000Z","New Zealand","Slovakia",1,1,"FIFA World Cup","Rustenburg","South Africa","TRUE",-25.6667,27.2336,0.9506282921290274
+"2010-06-16T00:00:00.000Z","Honduras","Chile",0,1,"FIFA World Cup","Nelspruit","South Africa","TRUE",-25.4745,30.9703,0.6977624572375485
+"2010-06-16T00:00:00.000Z","South Africa","Uruguay",0,3,"FIFA World Cup","Pretoria","South Africa","FALSE",-25.7464,28.1881,0.6366119249800044
+"2010-06-16T00:00:00.000Z","Spain","Switzerland",0,1,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.3059180220750195
+"2010-06-17T00:00:00.000Z","Argentina","South Korea",4,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.6534897442383543
+"2010-06-17T00:00:00.000Z","France","Mexico",0,2,"FIFA World Cup","Polokwane","South Africa","TRUE",-23.9,29.45,0.16755876131158964
+"2010-06-17T00:00:00.000Z","Greece","Nigeria",2,1,"FIFA World Cup","Bloemfontein","South Africa","TRUE",-29.1,26.2167,0.584674250340498
+"2010-06-18T00:00:00.000Z","England","Algeria",0,0,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.41899512151402685
+"2010-06-18T00:00:00.000Z","Germany","Serbia",0,1,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.21735951737143022
+"2010-06-18T00:00:00.000Z","Slovenia","United States",2,2,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.42619934025575024
+"2010-06-19T00:00:00.000Z","Cameroon","Denmark",1,2,"FIFA World Cup","Pretoria","South Africa","TRUE",-25.7464,28.1881,0.47822691538477313
+"2010-06-19T00:00:00.000Z","Ghana","Australia",1,1,"FIFA World Cup","Rustenburg","South Africa","TRUE",-25.6667,27.2336,0.025202639877247357
+"2010-06-19T00:00:00.000Z","Netherlands","Japan",1,0,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.6809538390015872
+"2010-06-20T00:00:00.000Z","Brazil","Ivory Coast",3,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.16456753108672273
+"2010-06-20T00:00:00.000Z","Italy","New Zealand",1,1,"FIFA World Cup","Nelspruit","South Africa","TRUE",-25.4745,30.9703,0.6156619907990306
+"2010-06-20T00:00:00.000Z","Slovakia","Paraguay",0,2,"FIFA World Cup","Bloemfontein","South Africa","TRUE",-29.1,26.2167,0.4844137186879418
+"2010-06-21T00:00:00.000Z","Chile","Switzerland",1,0,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.6474932750513884
+"2010-06-21T00:00:00.000Z","Portugal","North Korea",7,0,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.31948286669167736
+"2010-06-21T00:00:00.000Z","Spain","Honduras",2,0,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.6082101388463834
+"2010-06-22T00:00:00.000Z","Greece","Argentina",0,2,"FIFA World Cup","Polokwane","South Africa","TRUE",-23.9,29.45,0.44735118420788655
+"2010-06-22T00:00:00.000Z","Mexico","Uruguay",0,1,"FIFA World Cup","Rustenburg","South Africa","TRUE",-25.6667,27.2336,0.5725348571575342
+"2010-06-22T00:00:00.000Z","Nigeria","South Korea",2,2,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.252094582008872
+"2010-06-22T00:00:00.000Z","South Africa","France",2,1,"FIFA World Cup","Bloemfontein","South Africa","FALSE",-29.1,26.2167,0.042448263974471656
+"2010-06-23T00:00:00.000Z","Australia","Serbia",2,1,"FIFA World Cup","Nelspruit","South Africa","TRUE",-25.4745,30.9703,0.42550136462008625
+"2010-06-23T00:00:00.000Z","Ghana","Germany",0,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.1474105434259234
+"2010-06-23T00:00:00.000Z","Slovenia","England",0,1,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.8183452599590548
+"2010-06-23T00:00:00.000Z","United States","Algeria",1,0,"FIFA World Cup","Pretoria","South Africa","TRUE",-25.7464,28.1881,0.9758666814627615
+"2010-06-24T00:00:00.000Z","Cameroon","Netherlands",1,2,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.9325016467283602
+"2010-06-24T00:00:00.000Z","Denmark","Japan",1,3,"FIFA World Cup","Rustenburg","South Africa","TRUE",-25.6667,27.2336,0.2977215477103148
+"2010-06-24T00:00:00.000Z","Paraguay","New Zealand",0,0,"FIFA World Cup","Polokwane","South Africa","TRUE",-23.9,29.45,0.7870638873178188
+"2010-06-24T00:00:00.000Z","Slovakia","Italy",3,2,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.4812179796775029
+"2010-06-25T00:00:00.000Z","Chile","Spain",1,2,"FIFA World Cup","Pretoria","South Africa","TRUE",-25.7464,28.1881,0.5095904097993329
+"2010-06-25T00:00:00.000Z","North Korea","Ivory Coast",0,3,"FIFA World Cup","Nelspruit","South Africa","TRUE",-25.4745,30.9703,0.31947823266945563
+"2010-06-25T00:00:00.000Z","Portugal","Brazil",0,0,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.9913382746561199
+"2010-06-25T00:00:00.000Z","Switzerland","Honduras",0,0,"FIFA World Cup","Bloemfontein","South Africa","TRUE",-29.1,26.2167,0.505654236978127
+"2010-06-26T00:00:00.000Z","Uruguay","South Korea",2,1,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.1559383102312124
+"2010-06-26T00:00:00.000Z","United States","Ghana",1,2,"FIFA World Cup","Rustenburg","South Africa","TRUE",-25.6667,27.2336,0.6595000095216057
+"2010-06-27T00:00:00.000Z","Argentina","Mexico",3,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.6801219140822024
+"2010-06-27T00:00:00.000Z","Germany","England",4,1,"FIFA World Cup","Bloemfontein","South Africa","TRUE",-29.1,26.2167,0.36433295698300316
+"2010-06-28T00:00:00.000Z","Brazil","Chile",3,0,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.1788192832026776
+"2010-06-28T00:00:00.000Z","Netherlands","Slovakia",2,1,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.9672986898279865
+"2010-06-29T00:00:00.000Z","Paraguay","Japan",0,0,"FIFA World Cup","Pretoria","South Africa","TRUE",-25.7464,28.1881,0.7567862401977659
+"2010-06-29T00:00:00.000Z","Spain","Portugal",1,0,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.7624564120416288
+"2010-07-02T00:00:00.000Z","Netherlands","Brazil",2,1,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.9158976057499091
+"2010-07-02T00:00:00.000Z","Uruguay","Ghana",1,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.3569317465672175
+"2010-07-03T00:00:00.000Z","Argentina","Germany",0,4,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.5697059785010921
+"2010-07-03T00:00:00.000Z","Paraguay","Spain",0,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.07496605520871613
+"2010-07-06T00:00:00.000Z","Uruguay","Netherlands",2,3,"FIFA World Cup","Cape Town","South Africa","TRUE",-33.925,18.425,0.8110313776255118
+"2010-07-07T00:00:00.000Z","Germany","Spain",0,1,"FIFA World Cup","Durban","South Africa","TRUE",-29.8583,31.025,0.05367622574509956
+"2010-07-10T00:00:00.000Z","Uruguay","Germany",2,3,"FIFA World Cup","Port Elizabeth","South Africa","TRUE",-33.9581,25.6,0.39010162744611
+"2010-07-11T00:00:00.000Z","Netherlands","Spain",0,1,"FIFA World Cup","Johannesburg","South Africa","TRUE",-26.2044,28.0416,0.3592717897136142
+"2014-06-12T00:00:00.000Z","Brazil","Croatia",3,1,"FIFA World Cup","São Paulo","Brazil","FALSE",-23.5504,-46.6339,0.5090344820428523
+"2014-06-13T00:00:00.000Z","Chile","Australia",3,1,"FIFA World Cup","Cuiabá","Brazil","TRUE",-15.5958,-56.0969,0.9840046327135472
+"2014-06-13T00:00:00.000Z","Mexico","Cameroon",1,0,"FIFA World Cup","Natal","Brazil","TRUE",-6.9838,-60.2699,0.3914055961735976
+"2014-06-13T00:00:00.000Z","Spain","Netherlands",1,5,"FIFA World Cup","Salvador","Brazil","TRUE",-12.9708,-38.5108,0.39186668187450713
+"2014-06-14T00:00:00.000Z","Colombia","Greece",3,0,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.2593820402483642
+"2014-06-14T00:00:00.000Z","England","Italy",1,2,"FIFA World Cup","Manaus","Brazil","TRUE",-3.1,-60.0167,0.3351057115922671
+"2014-06-14T00:00:00.000Z","Ivory Coast","Japan",2,1,"FIFA World Cup","Recife","Brazil","TRUE",-8.0539,-34.8808,0.8627421611217883
+"2014-06-14T00:00:00.000Z","Uruguay","Costa Rica",1,3,"FIFA World Cup","Fortaleza","Brazil","TRUE",-3.7275,-38.5275,0.11972577483501023
+"2014-06-15T00:00:00.000Z","Argentina","Bosnia and Herzegovina",2,1,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.5903274218528705
+"2014-06-15T00:00:00.000Z","France","Honduras",3,0,"FIFA World Cup","Porto Alegre","Brazil","TRUE",-30.0328,-51.23,0.4372547745411075
+"2014-06-15T00:00:00.000Z","Switzerland","Ecuador",2,1,"FIFA World Cup","Brasília","Brazil","TRUE",-15.7939,-47.8828,0.8582494423137579
+"2014-06-16T00:00:00.000Z","Germany","Portugal",4,0,"FIFA World Cup","Salvador","Brazil","TRUE",-12.9708,-38.5108,0.2524789520466475
+"2014-06-16T00:00:00.000Z","Ghana","United States",1,2,"FIFA World Cup","Natal","Brazil","TRUE",-6.9838,-60.2699,0.9080299676291106
+"2014-06-16T00:00:00.000Z","Iran","Nigeria",0,0,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.9443183361588574
+"2014-06-17T00:00:00.000Z","Belgium","Algeria",2,1,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.8874812102795138
+"2014-06-17T00:00:00.000Z","Brazil","Mexico",0,0,"FIFA World Cup","Fortaleza","Brazil","FALSE",-3.7275,-38.5275,0.20682980422482755
+"2014-06-17T00:00:00.000Z","Russia","South Korea",1,1,"FIFA World Cup","Cuiabá","Brazil","TRUE",-15.5958,-56.0969,0.0500747985550154
+"2014-06-18T00:00:00.000Z","Australia","Netherlands",2,3,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.21684110892515163
+"2014-06-18T00:00:00.000Z","Cameroon","Croatia",0,4,"FIFA World Cup","Manaus","Brazil","TRUE",-3.1,-60.0167,0.9459639533778954
+"2014-06-18T00:00:00.000Z","Spain","Chile",0,2,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.9938816110501638
+"2014-06-19T00:00:00.000Z","Colombia","Ivory Coast",2,1,"FIFA World Cup","Brasília","Brazil","TRUE",-15.7939,-47.8828,0.8370460095121948
+"2014-06-19T00:00:00.000Z","Japan","Greece",0,0,"FIFA World Cup","Natal","Brazil","TRUE",-6.9838,-60.2699,0.5839765953583835
+"2014-06-19T00:00:00.000Z","Uruguay","England",2,1,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.2662289175503749
+"2014-06-20T00:00:00.000Z","Honduras","Ecuador",1,2,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.7460541052967575
+"2014-06-20T00:00:00.000Z","Italy","Costa Rica",0,1,"FIFA World Cup","Recife","Brazil","TRUE",-8.0539,-34.8808,0.09684072530946475
+"2014-06-20T00:00:00.000Z","Switzerland","France",2,5,"FIFA World Cup","Salvador","Brazil","TRUE",-12.9708,-38.5108,0.035313449447054834
+"2014-06-21T00:00:00.000Z","Argentina","Iran",1,0,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.4378571965928637
+"2014-06-21T00:00:00.000Z","Germany","Ghana",2,2,"FIFA World Cup","Fortaleza","Brazil","TRUE",-3.7275,-38.5275,0.40871632925105783
+"2014-06-21T00:00:00.000Z","Nigeria","Bosnia and Herzegovina",1,0,"FIFA World Cup","Cuiabá","Brazil","TRUE",-15.5958,-56.0969,0.5706368138262952
+"2014-06-22T00:00:00.000Z","Belgium","Russia",1,0,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.6148086077601427
+"2014-06-22T00:00:00.000Z","South Korea","Algeria",2,4,"FIFA World Cup","Porto Alegre","Brazil","TRUE",-30.0328,-51.23,0.6044929724618229
+"2014-06-22T00:00:00.000Z","United States","Portugal",2,2,"FIFA World Cup","Manaus","Brazil","TRUE",-3.1,-60.0167,0.15102423776545715
+"2014-06-23T00:00:00.000Z","Australia","Spain",0,3,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.4197685528127335
+"2014-06-23T00:00:00.000Z","Brazil","Cameroon",4,1,"FIFA World Cup","Brasília","Brazil","FALSE",-15.7939,-47.8828,0.7093332970008455
+"2014-06-23T00:00:00.000Z","Croatia","Mexico",1,3,"FIFA World Cup","Recife","Brazil","TRUE",-8.0539,-34.8808,0.769335878111542
+"2014-06-23T00:00:00.000Z","Netherlands","Chile",2,0,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.9482591765204962
+"2014-06-24T00:00:00.000Z","Costa Rica","England",0,0,"FIFA World Cup","Belo Horizonte","Brazil","TRUE",-19.9281,-43.9419,0.5564143323629152
+"2014-06-24T00:00:00.000Z","Greece","Ivory Coast",2,1,"FIFA World Cup","Fortaleza","Brazil","TRUE",-3.7275,-38.5275,0.829475123858084
+"2014-06-24T00:00:00.000Z","Italy","Uruguay",0,1,"FIFA World Cup","Natal","Brazil","TRUE",-6.9838,-60.2699,0.42728605461141034
+"2014-06-24T00:00:00.000Z","Japan","Colombia",1,4,"FIFA World Cup","Cuiabá","Brazil","TRUE",-15.5958,-56.0969,0.6989491040966247
+"2014-06-25T00:00:00.000Z","Bosnia and Herzegovina","Iran",3,1,"FIFA World Cup","Salvador","Brazil","TRUE",-12.9708,-38.5108,0.3035281385393822
+"2014-06-25T00:00:00.000Z","Ecuador","France",0,0,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.8249740807435644
+"2014-06-25T00:00:00.000Z","Honduras","Switzerland",0,3,"FIFA World Cup","Manaus","Brazil","TRUE",-3.1,-60.0167,0.9952692241863359
+"2014-06-25T00:00:00.000Z","Nigeria","Argentina",2,3,"FIFA World Cup","Porto Alegre","Brazil","TRUE",-30.0328,-51.23,0.10169377547750136
+"2014-06-26T00:00:00.000Z","Algeria","Russia",1,1,"FIFA World Cup","Curitiba","Brazil","TRUE",-25.4297,-49.2719,0.46486623014862904
+"2014-06-26T00:00:00.000Z","South Korea","Belgium",0,1,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.8272983724019032
+"2014-06-26T00:00:00.000Z","Portugal","Ghana",2,1,"FIFA World Cup","Brasília","Brazil","TRUE",-15.7939,-47.8828,0.4008503865167763
+"2014-06-26T00:00:00.000Z","United States","Germany",0,1,"FIFA World Cup","Recife","Brazil","TRUE",-8.0539,-34.8808,0.44537935002115425
+"2014-06-28T00:00:00.000Z","Brazil","Chile",1,1,"FIFA World Cup","Belo Horizonte","Brazil","FALSE",-19.9281,-43.9419,0.44349293646981325
+"2014-06-28T00:00:00.000Z","Colombia","Uruguay",2,0,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.23560884588457665
+"2014-06-29T00:00:00.000Z","Costa Rica","Greece",1,1,"FIFA World Cup","Recife","Brazil","TRUE",-8.0539,-34.8808,0.29574978651084183
+"2014-06-29T00:00:00.000Z","Netherlands","Mexico",2,1,"FIFA World Cup","Fortaleza","Brazil","TRUE",-3.7275,-38.5275,0.5958985013028857
+"2014-06-30T00:00:00.000Z","France","Nigeria",2,0,"FIFA World Cup","Brasília","Brazil","TRUE",-15.7939,-47.8828,0.10297713121386187
+"2014-06-30T00:00:00.000Z","Germany","Algeria",2,1,"FIFA World Cup","Porto Alegre","Brazil","TRUE",-30.0328,-51.23,0.7617471524606971
+"2014-07-01T00:00:00.000Z","Argentina","Switzerland",1,0,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.11755630712501386
+"2014-07-01T00:00:00.000Z","Belgium","United States",2,1,"FIFA World Cup","Salvador","Brazil","TRUE",-12.9708,-38.5108,0.729991365211726
+"2014-07-04T00:00:00.000Z","Brazil","Colombia",2,1,"FIFA World Cup","Fortaleza","Brazil","FALSE",-3.7275,-38.5275,0.7562907726271344
+"2014-07-04T00:00:00.000Z","France","Germany",0,1,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.8701903741306927
+"2014-07-05T00:00:00.000Z","Argentina","Belgium",1,0,"FIFA World Cup","Brasília","Brazil","TRUE",-15.7939,-47.8828,0.8840678916508586
+"2014-07-05T00:00:00.000Z","Netherlands","Costa Rica",0,0,"FIFA World Cup","Salvador","Brazil","TRUE",-12.9708,-38.5108,0.7929679110700485
+"2014-07-08T00:00:00.000Z","Brazil","Germany",1,7,"FIFA World Cup","Belo Horizonte","Brazil","FALSE",-19.9281,-43.9419,0.5430206822616639
+"2014-07-09T00:00:00.000Z","Netherlands","Argentina",0,0,"FIFA World Cup","São Paulo","Brazil","TRUE",-23.5504,-46.6339,0.6717244284420163
+"2014-07-12T00:00:00.000Z","Brazil","Netherlands",0,3,"FIFA World Cup","Brasília","Brazil","FALSE",-15.7939,-47.8828,0.4552070295851849
+"2014-07-13T00:00:00.000Z","Germany","Argentina",1,0,"FIFA World Cup","Rio de Janeiro","Brazil","TRUE",-22.9083,-43.1964,0.6427072863849201
+"2018-06-14T00:00:00.000Z","Russia","Saudi Arabia",5,0,"FIFA World Cup","Moscow","Russia","FALSE",55.7558,37.6178,0.3957110295545838
+"2018-06-15T00:00:00.000Z","Egypt","Uruguay",0,1,"FIFA World Cup","Ekaterinburg","Russia","TRUE",55.7558,37.6178,0.18062233178355824
+"2018-06-15T00:00:00.000Z","Morocco","Iran",0,1,"FIFA World Cup","Saint Petersburg","Russia","TRUE",59.95,30.3167,0.971971953118671
+"2018-06-15T00:00:00.000Z","Portugal","Spain",3,3,"FIFA World Cup","Sochi","Russia","TRUE",43.5853,39.7203,0.018013217694802908
+"2018-06-16T00:00:00.000Z","France","Australia",2,1,"FIFA World Cup","Kazan","Russia","TRUE",55.7908,49.1144,0.015444755430430446
+"2018-06-16T00:00:00.000Z","Argentina","Iceland",1,1,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.3114838939323439
+"2018-06-16T00:00:00.000Z","Peru","Denmark",0,1,"FIFA World Cup","Saransk","Russia","TRUE",54.1833,45.1833,0.42051555585846545
+"2018-06-16T00:00:00.000Z","Croatia","Nigeria",2,0,"FIFA World Cup","Kaliningrad","Russia","TRUE",54.7167,20.5,0.8540604108568544
+"2018-06-17T00:00:00.000Z","Costa Rica","Serbia",0,1,"FIFA World Cup","Samara","Russia","TRUE",53.1833,50.1167,0.7985017883759153
+"2018-06-17T00:00:00.000Z","Germany","Mexico",0,1,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.5692117845155262
+"2018-06-17T00:00:00.000Z","Brazil","Switzerland",1,1,"FIFA World Cup","Rostov-on-Don","Russia","TRUE",55.7558,37.6178,0.6098020979090018
+"2018-06-18T00:00:00.000Z","Sweden","South Korea",1,0,"FIFA World Cup","Nizhny Novgorod","Russia","TRUE",55.7558,37.6178,0.5891636142028693
+"2018-06-18T00:00:00.000Z","Belgium","Panama",3,0,"FIFA World Cup","Sochi","Russia","TRUE",43.5853,39.7203,0.2876718358243795
+"2018-06-18T00:00:00.000Z","Tunisia","England",1,2,"FIFA World Cup","Volgograd","Russia","TRUE",48.7086,44.5147,0.20182429853070794
+"2018-06-19T00:00:00.000Z","Colombia","Japan",1,2,"FIFA World Cup","Saransk","Russia","TRUE",54.1833,45.1833,0.5311429491100317
+"2018-06-19T00:00:00.000Z","Poland","Senegal",1,2,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.47711095886473975
+"2018-06-19T00:00:00.000Z","Russia","Egypt",3,1,"FIFA World Cup","Saint Petersburg","Russia","FALSE",59.95,30.3167,0.1446631964423739
+"2018-06-20T00:00:00.000Z","Portugal","Morocco",1,0,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.634552239137465
+"2018-06-20T00:00:00.000Z","Uruguay","Saudi Arabia",1,0,"FIFA World Cup","Rostov-on-Don","Russia","TRUE",55.7558,37.6178,0.2480923798723229
+"2018-06-20T00:00:00.000Z","Iran","Spain",0,1,"FIFA World Cup","Kazan","Russia","TRUE",55.7908,49.1144,0.9755220880240834
+"2018-06-21T00:00:00.000Z","Denmark","Australia",1,1,"FIFA World Cup","Samara","Russia","TRUE",53.1833,50.1167,0.9975192814093028
+"2018-06-21T00:00:00.000Z","France","Peru",1,0,"FIFA World Cup","Ekaterinburg","Russia","TRUE",55.7558,37.6178,0.8081119991963019
+"2018-06-21T00:00:00.000Z","Argentina","Croatia",0,3,"FIFA World Cup","Nizhny Novgorod","Russia","TRUE",55.7558,37.6178,0.8386937263598551
+"2018-06-22T00:00:00.000Z","Brazil","Costa Rica",2,0,"FIFA World Cup","Saint Petersburg","Russia","TRUE",59.95,30.3167,0.30364124008280347
+"2018-06-22T00:00:00.000Z","Nigeria","Iceland",2,0,"FIFA World Cup","Volgograd","Russia","TRUE",48.7086,44.5147,0.18952973724395594
+"2018-06-22T00:00:00.000Z","Serbia","Switzerland",1,2,"FIFA World Cup","Kaliningrad","Russia","TRUE",54.7167,20.5,0.756443469130446
+"2018-06-23T00:00:00.000Z","Belgium","Tunisia",5,2,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.8872797573130715
+"2018-06-23T00:00:00.000Z","South Korea","Mexico",1,2,"FIFA World Cup","Rostov-on-Don","Russia","TRUE",55.7558,37.6178,0.7342099665979522
+"2018-06-23T00:00:00.000Z","Germany","Sweden",2,1,"FIFA World Cup","Sochi","Russia","TRUE",43.5853,39.7203,0.7599480870889179
+"2018-06-24T00:00:00.000Z","England","Panama",6,1,"FIFA World Cup","Nizhny Novgorod","Russia","TRUE",55.7558,37.6178,0.9010232239226332
+"2018-06-24T00:00:00.000Z","Japan","Senegal",2,2,"FIFA World Cup","Ekaterinburg","Russia","TRUE",55.7558,37.6178,0.9377797638022083
+"2018-06-24T00:00:00.000Z","Poland","Colombia",0,3,"FIFA World Cup","Kazan","Russia","TRUE",55.7908,49.1144,0.38360648814548237
+"2018-06-25T00:00:00.000Z","Russia","Uruguay",0,3,"FIFA World Cup","Samara","Russia","FALSE",53.1833,50.1167,0.1747190647810668
+"2018-06-25T00:00:00.000Z","Saudi Arabia","Egypt",2,1,"FIFA World Cup","Volgograd","Russia","TRUE",48.7086,44.5147,0.018579636845844627
+"2018-06-25T00:00:00.000Z","Spain","Morocco",2,2,"FIFA World Cup","Kaliningrad","Russia","TRUE",54.7167,20.5,0.9746407056115376
+"2018-06-25T00:00:00.000Z","Iran","Portugal",1,1,"FIFA World Cup","Saransk","Russia","TRUE",54.1833,45.1833,0.9476058556858624
+"2018-06-26T00:00:00.000Z","Australia","Peru",0,2,"FIFA World Cup","Sochi","Russia","TRUE",43.5853,39.7203,0.4551131127337764
+"2018-06-26T00:00:00.000Z","Denmark","France",0,0,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.5149518278333856
+"2018-06-26T00:00:00.000Z","Nigeria","Argentina",1,2,"FIFA World Cup","Saint Petersburg","Russia","TRUE",59.95,30.3167,0.4786391918783748
+"2018-06-26T00:00:00.000Z","Iceland","Croatia",1,2,"FIFA World Cup","Rostov-on-Don","Russia","TRUE",55.7558,37.6178,0.12274562111956588
+"2018-06-27T00:00:00.000Z","South Korea","Germany",2,0,"FIFA World Cup","Kazan","Russia","TRUE",55.7908,49.1144,0.1656364572760134
+"2018-06-27T00:00:00.000Z","Mexico","Sweden",0,3,"FIFA World Cup","Ekaterinburg","Russia","TRUE",55.7558,37.6178,0.3206999781870725
+"2018-06-27T00:00:00.000Z","Serbia","Brazil",0,2,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.550893421039572
+"2018-06-27T00:00:00.000Z","Switzerland","Costa Rica",2,2,"FIFA World Cup","Nizhny Novgorod","Russia","TRUE",55.7558,37.6178,0.3249839004938022
+"2018-06-28T00:00:00.000Z","Japan","Poland",0,1,"FIFA World Cup","Volgograd","Russia","TRUE",48.7086,44.5147,0.9237437482505271
+"2018-06-28T00:00:00.000Z","Senegal","Colombia",0,1,"FIFA World Cup","Samara","Russia","TRUE",53.1833,50.1167,0.2172303836931344
+"2018-06-28T00:00:00.000Z","Panama","Tunisia",1,2,"FIFA World Cup","Saransk","Russia","TRUE",54.1833,45.1833,0.28077049368391505
+"2018-06-28T00:00:00.000Z","England","Belgium",0,1,"FIFA World Cup","Kaliningrad","Russia","TRUE",54.7167,20.5,0.6550000718904674
+"2018-06-30T00:00:00.000Z","France","Argentina",4,3,"FIFA World Cup","Kazan","Russia","TRUE",55.7908,49.1144,0.8594118637495063
+"2018-06-30T00:00:00.000Z","Uruguay","Portugal",2,1,"FIFA World Cup","Sochi","Russia","TRUE",43.5853,39.7203,0.6272817678869522
+"2018-07-01T00:00:00.000Z","Russia","Spain",1,1,"FIFA World Cup","Moscow","Russia","FALSE",55.7558,37.6178,0.14704231601226847
+"2018-07-01T00:00:00.000Z","Croatia","Denmark",1,1,"FIFA World Cup","Nizhny Novgorod","Russia","TRUE",55.7558,37.6178,0.6927362924442517
+"2018-07-02T00:00:00.000Z","Brazil","Mexico",2,0,"FIFA World Cup","Samara","Russia","TRUE",53.1833,50.1167,0.8913428116884063
+"2018-07-02T00:00:00.000Z","Belgium","Japan",3,2,"FIFA World Cup","Rostov-on-Don","Russia","TRUE",55.7558,37.6178,0.7342169203578366
+"2018-07-03T00:00:00.000Z","Sweden","Switzerland",1,0,"FIFA World Cup","Saint Petersburg","Russia","TRUE",59.95,30.3167,0.13275331172661708
+"2018-07-03T00:00:00.000Z","Colombia","England",1,1,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.18779428773764173
+"2018-07-06T00:00:00.000Z","Uruguay","France",0,2,"FIFA World Cup","Nizhny Novgorod","Russia","TRUE",55.7558,37.6178,0.7350001181074104
+"2018-07-06T00:00:00.000Z","Brazil","Belgium",1,2,"FIFA World Cup","Kazan","Russia","TRUE",55.7908,49.1144,0.7490988225133779
+"2018-07-07T00:00:00.000Z","Sweden","England",0,2,"FIFA World Cup","Samara","Russia","TRUE",53.1833,50.1167,0.8377605479245107
+"2018-07-07T00:00:00.000Z","Russia","Croatia",2,2,"FIFA World Cup","Sochi","Russia","FALSE",43.5853,39.7203,0.4017971825952855
+"2018-07-10T00:00:00.000Z","France","Belgium",1,0,"FIFA World Cup","Saint Petersburg","Russia","TRUE",59.95,30.3167,0.8664756331024188
+"2018-07-11T00:00:00.000Z","Croatia","England",2,1,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.40767059629469893
+"2018-07-14T00:00:00.000Z","Belgium","England",2,0,"FIFA World Cup","Saint Petersburg","Russia","TRUE",59.95,30.3167,0.055320111869937794
+"2018-07-15T00:00:00.000Z","France","Croatia",4,2,"FIFA World Cup","Moscow","Russia","TRUE",55.7558,37.6178,0.8083815167306676
+"2022-11-20T00:00:00.000Z","Qatar","Ecuador",0,2,"FIFA World Cup","Al Khor","Qatar","FALSE",25.3,51.5333,0.6940188936136635
+"2022-11-21T00:00:00.000Z","Senegal","Netherlands",0,2,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.5970808153567331
+"2022-11-21T00:00:00.000Z","England","Iran",6,2,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.6998350146914625
+"2022-11-21T00:00:00.000Z","United States","Wales",1,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.9932198327471191
+"2022-11-22T00:00:00.000Z","Argentina","Saudi Arabia",1,2,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.5408791038734051
+"2022-11-22T00:00:00.000Z","Mexico","Poland",0,0,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.612079728638163
+"2022-11-22T00:00:00.000Z","Denmark","Tunisia",0,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.7909369304480878
+"2022-11-22T00:00:00.000Z","France","Australia",4,1,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.8903871426515786
+"2022-11-23T00:00:00.000Z","Germany","Japan",1,2,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.02756359359183902
+"2022-11-23T00:00:00.000Z","Spain","Costa Rica",7,0,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.8988529457224763
+"2022-11-23T00:00:00.000Z","Morocco","Croatia",0,0,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.819430612411612
+"2022-11-23T00:00:00.000Z","Belgium","Canada",1,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.6227895806991264
+"2022-11-24T00:00:00.000Z","Switzerland","Cameroon",1,0,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.0958578987685208
+"2022-11-24T00:00:00.000Z","Brazil","Serbia",2,0,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.9910183522554588
+"2022-11-24T00:00:00.000Z","Uruguay","South Korea",0,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.9887859933517318
+"2022-11-24T00:00:00.000Z","Portugal","Ghana",3,2,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.3601987793363721
+"2022-11-25T00:00:00.000Z","Qatar","Senegal",1,3,"FIFA World Cup","Doha","Qatar","FALSE",25.3,51.5333,0.5198540855227545
+"2022-11-25T00:00:00.000Z","Netherlands","Ecuador",1,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.3629048493602147
+"2022-11-25T00:00:00.000Z","Wales","Iran",0,2,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.38990673149780863
+"2022-11-25T00:00:00.000Z","England","United States",0,0,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.26038485654716936
+"2022-11-26T00:00:00.000Z","Poland","Saudi Arabia",2,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.4239766960705944
+"2022-11-26T00:00:00.000Z","Argentina","Mexico",2,0,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.3819497003683803
+"2022-11-26T00:00:00.000Z","Tunisia","Australia",0,1,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.34491447592630253
+"2022-11-26T00:00:00.000Z","France","Denmark",2,1,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.4769534187264979
+"2022-11-27T00:00:00.000Z","Japan","Costa Rica",0,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.34227865458943496
+"2022-11-27T00:00:00.000Z","Spain","Germany",1,1,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.8618229558459756
+"2022-11-27T00:00:00.000Z","Belgium","Morocco",0,2,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.4582427732836958
+"2022-11-27T00:00:00.000Z","Croatia","Canada",4,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.019453367723554438
+"2022-11-28T00:00:00.000Z","Cameroon","Serbia",3,3,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.7746866605673763
+"2022-11-28T00:00:00.000Z","Brazil","Switzerland",1,0,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.8500238783607541
+"2022-11-28T00:00:00.000Z","South Korea","Ghana",2,3,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.5822206189742587
+"2022-11-28T00:00:00.000Z","Portugal","Uruguay",2,0,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.642770398459082
+"2022-11-29T00:00:00.000Z","Ecuador","Senegal",1,2,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.6494463196776579
+"2022-11-29T00:00:00.000Z","Qatar","Netherlands",0,2,"FIFA World Cup","Al Khor","Qatar","FALSE",25.3,51.5333,0.9206335439233042
+"2022-11-29T00:00:00.000Z","Wales","England",0,3,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.890980918884078
+"2022-11-29T00:00:00.000Z","Iran","United States",0,1,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.5666375899288478
+"2022-11-30T00:00:00.000Z","Poland","Argentina",0,2,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.7787285681161054
+"2022-11-30T00:00:00.000Z","Saudi Arabia","Mexico",1,2,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.2789890846435652
+"2022-11-30T00:00:00.000Z","Australia","Denmark",1,0,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.9592654060747892
+"2022-11-30T00:00:00.000Z","Tunisia","France",1,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.6857395309294225
+"2022-12-01T00:00:00.000Z","Japan","Spain",2,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.062232415163758104
+"2022-12-01T00:00:00.000Z","Costa Rica","Germany",2,4,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.6060251273573898
+"2022-12-01T00:00:00.000Z","Croatia","Belgium",0,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.6601716567734632
+"2022-12-01T00:00:00.000Z","Canada","Morocco",1,2,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.16717482774144088
+"2022-12-02T00:00:00.000Z","Serbia","Switzerland",2,3,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.5860090357274113
+"2022-12-02T00:00:00.000Z","Cameroon","Brazil",1,0,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.8679318889041852
+"2022-12-02T00:00:00.000Z","Ghana","Uruguay",0,2,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.32987023716530195
+"2022-12-02T00:00:00.000Z","South Korea","Portugal",2,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.4884864051411748
+"2022-12-03T00:00:00.000Z","Netherlands","United States",3,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.2219060741805614
+"2022-12-03T00:00:00.000Z","Argentina","Australia",2,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.30614996497090763
+"2022-12-04T00:00:00.000Z","France","Poland",3,1,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.6044938472644978
+"2022-12-04T00:00:00.000Z","England","Senegal",3,0,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.6437445209955488
+"2022-12-05T00:00:00.000Z","Japan","Croatia",1,1,"FIFA World Cup","Al Wakrah","Qatar","TRUE",25.18,51.61,0.1358876362319006
+"2022-12-05T00:00:00.000Z","Brazil","South Korea",4,1,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.1881653918792432
+"2022-12-06T00:00:00.000Z","Morocco","Spain",0,0,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.8849334644199145
+"2022-12-06T00:00:00.000Z","Portugal","Switzerland",6,1,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.9387082024152535
+"2022-12-09T00:00:00.000Z","Croatia","Brazil",1,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.8601152778849279
+"2022-12-09T00:00:00.000Z","Netherlands","Argentina",2,2,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.6709342018633431
+"2022-12-10T00:00:00.000Z","Morocco","Portugal",1,0,"FIFA World Cup","Doha","Qatar","TRUE",25.3,51.5333,0.8638058504157107
+"2022-12-10T00:00:00.000Z","England","France",1,2,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.5621933904692886
+"2022-12-13T00:00:00.000Z","Argentina","Croatia",3,0,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.6057939277322961
+"2022-12-14T00:00:00.000Z","France","Morocco",2,0,"FIFA World Cup","Al Khor","Qatar","TRUE",25.3,51.5333,0.23480989452606882
+"2022-12-17T00:00:00.000Z","Croatia","Morocco",2,1,"FIFA World Cup","Al Rayyan","Qatar","TRUE",25.3,51.5333,0.7390382411977077
+"2022-12-18T00:00:00.000Z","Argentina","France",3,3,"FIFA World Cup","Lusail","Qatar","TRUE",25.3,51.5333,0.6741596673253305
